@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>61.0</version>
     <types>
+        <members>Books</members>
+        <members>BooksTest</members>
+        <members>Rocket</members>
+        <members>ScientistHandler</members>
+        <members>Tester</members>
+        <members>TesterTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
         <members>apexEmailNotifications</members>
         <name>ApexEmailNotifications</name>
     </types>
@@ -40,6 +49,33 @@
     <types>
         <members>Internal Zone</members>
         <name>Community</name>
+    </types>
+    <types>
+        <members>standard__AllTabSet</members>
+        <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
+        <members>standard__Community</members>
+        <members>standard__Content</members>
+        <members>standard__DataManager</members>
+        <members>standard__ExpressionSetConsole</members>
+        <members>standard__FlowsApp</members>
+        <members>standard__Insights</members>
+        <members>standard__LightningBolt</members>
+        <members>standard__LightningInstrumentation</members>
+        <members>standard__LightningSales</members>
+        <members>standard__LightningSalesConsole</members>
+        <members>standard__LightningScheduler</members>
+        <members>standard__LightningService</members>
+        <members>standard__Marketing</members>
+        <members>standard__Platform</members>
+        <members>standard__QueueManagement</members>
+        <members>standard__RevenueCloudConsole</members>
+        <members>standard__Sales</members>
+        <members>standard__SalesforceCMS</members>
+        <members>standard__Service</members>
+        <members>standard__ServiceConsole</members>
+        <members>standard__Sites</members>
+        <name>CustomApplication</name>
     </types>
     <types>
         <members>Account.AccountNumber</members>
@@ -3060,6 +3096,17 @@
         <members>Scientist__c-en_US</members>
         <members>VirtualEvent__c-en_US</members>
         <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>Doctor__c</members>
+        <members>Engineer__c</members>
+        <members>King__c</members>
+        <members>Math__c</members>
+        <members>Queen__c</members>
+        <members>Science__c</members>
+        <members>Scientist__c</members>
+        <members>VirtualEvent__c</members>
+        <name>CustomTab</name>
     </types>
     <types>
         <members>enablement/sfdcEnablement_EnablementWorkspace.sfdc_cms__languageSettings/languages</members>
