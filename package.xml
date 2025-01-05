@@ -18,6 +18,7 @@
     <types>
         <members>DoctorTrigger</members>
         <members>EngineerTrigger</members>
+        <members>PlayerStatsTrigger</members>
         <name>ApexTrigger</name>
     </types>
     <types>
@@ -1954,6 +1955,9 @@
         <members>PaymentMethod.PaymentMethodSubType</members>
         <members>PaymentMethod.PaymentMethodType</members>
         <members>PaymentMethod.Status</members>
+        <members>Player_Stats__c.Player_Name__c</members>
+        <members>Player_Stats__c.Player_Role__c</members>
+        <members>Player_Stats__c.Runs_Scored__c</members>
         <members>Pricebook2.Description</members>
         <members>Pricebook2.IsActive</members>
         <members>Pricebook2.IsStandard</members>
@@ -2982,6 +2986,7 @@
         <members>PaymentGroup</members>
         <members>PaymentLineInvoice</members>
         <members>PaymentMethod</members>
+        <members>Player_Stats__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>PrivacyRTBFRequest</members>
@@ -3106,6 +3111,7 @@
     <types>
         <members>Doctor__c</members>
         <members>Engineer__c</members>
+        <members>IPL_Teams__c</members>
         <members>King__c</members>
         <members>Math__c</members>
         <members>Queen__c</members>
@@ -3500,6 +3506,7 @@
         <members>PaymentGateway.PaymentGateway</members>
         <members>PaymentGroup.PaymentGroup</members>
         <members>PaymentLineInvoice.PaymentLineInvoice</members>
+        <members>Player_Stats__c.All</members>
         <members>Pricebook2.All_Pricebooks</members>
         <members>ProcessException.all_process_exceptions</members>
         <members>Product2.AllProducts</members>
