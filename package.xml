@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>61.0</version>
     <types>
+        <members>CricketManager</members>
+        <members>CricketManagerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>IPL_Teams__c.Number_of_Titles_Won__c</members>
+        <members>IPL_Teams__c.Team_Name__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>Animal__c</members>
+        <members>IPL_Teams__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>Animal__c-Animal Layout</members>
+        <members>IPL_Teams__c-IPL Teams Layout</members>
         <name>Layout</name>
     </types>
     <types>
         <members>Animal__c.All</members>
+        <members>IPL_Teams__c.All</members>
         <name>ListView</name>
     </types>
 </Package>
