@@ -2817,6 +2817,7 @@
         <members>Activity</members>
         <members>Address</members>
         <members>AlternativePaymentMethod</members>
+        <members>Animal__c</members>
         <members>ApiAnomalyEventStore</members>
         <members>AppointmentCategory</members>
         <members>AppointmentInvitation</members>
@@ -3388,6 +3389,7 @@
         <members>Activity.TodaysTasks</members>
         <members>Activity.UpcomingEvents</members>
         <members>AlternativePaymentMethod.AlternativePaymentMethod</members>
+        <members>Animal__c.All</members>
         <members>AppointmentInvitation.All_AppointmentInvitations</members>
         <members>AppointmentInvitation.My_AppointmentInvitations</members>
         <members>Asset.AllAssets</members>
