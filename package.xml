@@ -1699,6 +1699,8 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Macro.StartingContext</members>
+        <members>Match_Fixtures__c.Match_Date__c</members>
+        <members>Match_Fixtures__c.Teams_Playing__c</members>
         <members>Math__c.Sem_1_Marks__c</members>
         <members>MessagingEndUser.AccountId</members>
         <members>MessagingEndUser.ContactId</members>
@@ -2962,6 +2964,7 @@
         <members>MacroAction</members>
         <members>MacroInstruction</members>
         <members>MacroUsage</members>
+        <members>Match_Fixtures__c</members>
         <members>Math__c</members>
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
@@ -3114,6 +3117,7 @@
         <members>IPL_Teams__c</members>
         <members>King__c</members>
         <members>Math__c</members>
+        <members>Player_Stats__c</members>
         <members>Queen__c</members>
         <members>Science__c</members>
         <members>Scientist__c</members>
@@ -3484,6 +3488,7 @@
         <members>LegalEntity.mine</members>
         <members>Location.all_locations</members>
         <members>LocationGroup.LocationGroup</members>
+        <members>Match_Fixtures__c.All</members>
         <members>Math__c.All</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
         <members>OperatingHours.All_OperatingHours</members>
@@ -3592,6 +3597,7 @@
     <types>
         <members>Experience_Profile_Manager</members>
         <members>PS_1</members>
+        <members>Test_Permission</members>
         <members>sfdcInternalInt__sfdc_scrt2</members>
         <name>PermissionSet</name>
     </types>
@@ -3643,6 +3649,7 @@
         <members>High Volume Customer Portal User</members>
         <members>HighVolumePortal</members>
         <members>Identity User</members>
+        <members>Leo</members>
         <members>MarketingProfile</members>
         <members>Minimum Access - API Only Integrations</members>
         <members>Minimum Access - Salesforce</members>
