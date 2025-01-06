@@ -7,4 +7,11 @@
         <shortDescription>Scientist_URL</shortDescription>
         <value>https://dev.nasa.gov/scientist</value>
     </labels>
+    <labels>
+        <fullName>Welcome_Message</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Welcome_Message</shortDescription>
+        <value>Welcome to Salesforce!</value>
+    </labels>
 </CustomLabels>

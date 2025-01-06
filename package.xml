@@ -2291,6 +2291,8 @@
         <members>ScorecardMetric.Name</members>
         <members>ScorecardMetric.ReportId</members>
         <members>ScorecardMetric.ScorecardId</members>
+        <members>Season_Records__c.Season_Year__c</members>
+        <members>Season_Records__c.Winning_Team__c</members>
         <members>Seller.ActiveFromDate</members>
         <members>Seller.ActiveToDate</members>
         <members>Seller.Name</members>
@@ -2810,6 +2812,7 @@
     </types>
     <types>
         <members>Scientist_URL</members>
+        <members>Welcome_Message</members>
         <name>CustomLabel</name>
     </types>
     <types>
@@ -3038,6 +3041,7 @@
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
         <members>ScorecardMetric</members>
+        <members>Season_Records__c</members>
         <members>Seller</members>
         <members>ServiceAppointment</members>
         <members>ServiceAppointmentAttendee</members>
@@ -3116,6 +3120,7 @@
         <members>Engineer__c</members>
         <members>IPL_Teams__c</members>
         <members>King__c</members>
+        <members>Match_Fixtures__c</members>
         <members>Math__c</members>
         <members>Player_Stats__c</members>
         <members>Queen__c</members>
@@ -3188,6 +3193,7 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>Account_Flow_1</members>
         <members>TestFlow1</members>
         <members>TestFlow2</members>
         <name>Flow</name>
@@ -3529,6 +3535,7 @@
         <members>Scientist__c.All</members>
         <members>Scorecard.AllScorecards</members>
         <members>Scorecard.MyScorecards</members>
+        <members>Season_Records__c.All</members>
         <members>Seller.All_Sellers</members>
         <members>ServiceAppointment.All_ServiceAppointments</members>
         <members>ServiceAppointment.MyPendingAppointments</members>
