@@ -3,6 +3,8 @@
     <types>
         <members>Books</members>
         <members>BooksTest</members>
+        <members>Circle</members>
+        <members>CircleTest</members>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
         <members>EdenGarden</members>
@@ -1204,6 +1206,8 @@
         <members>EmailMessage.TextBody</members>
         <members>EmailMessage.ToAddress</members>
         <members>EmailMessage.ValidatedFromAddress</members>
+        <members>Employee__c.Employee_Id__c</members>
+        <members>Employee__c.Hire_Date__c</members>
         <members>EngagementChannelType.ContactPointType</members>
         <members>EngagementChannelType.IsActive</members>
         <members>EngagementChannelType.Name</members>
@@ -2920,6 +2924,7 @@
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
+        <members>Employee__c</members>
         <members>EngagementChannelType</members>
         <members>EngagementChannelWorkType</members>
         <members>Engineer__c</members>
@@ -3467,6 +3472,7 @@
         <members>DataUsePurpose.All_DataUsePurposes</members>
         <members>DigitalWallet.DigitalWallet</members>
         <members>Doctor__c.All</members>
+        <members>Employee__c.All</members>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <members>EngagementChannelWorkType.All_EngagementChannelWorkTypes</members>
         <members>EngagementChannelWorkType.My_EngagementChannelWorkTypes</members>
