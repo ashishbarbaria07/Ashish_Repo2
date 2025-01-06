@@ -5,6 +5,8 @@
         <members>BooksTest</members>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
+        <members>EdenGarden</members>
+        <members>EdenGardenTest</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
         <members>Tester</members>
