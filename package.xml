@@ -12,6 +12,8 @@
     <types>
         <members>IPL_Teams__c.Number_of_Titles_Won__c</members>
         <members>IPL_Teams__c.Team_Name__c</members>
+        <members>Match_Fixtures__c.Match_Date__c</members>
+        <members>Match_Fixtures__c.Teams_Playing__c</members>
         <members>Player_Stats__c.Player_Name__c</members>
         <members>Player_Stats__c.Player_Role__c</members>
         <members>Player_Stats__c.Runs_Scored__c</members>
@@ -20,23 +22,35 @@
     <types>
         <members>Animal__c</members>
         <members>IPL_Teams__c</members>
+        <members>Match_Fixtures__c</members>
         <members>Player_Stats__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>IPL_Teams__c</members>
+        <members>Player_Stats__c</members>
         <name>CustomTab</name>
     </types>
     <types>
         <members>Animal__c-Animal Layout</members>
         <members>IPL_Teams__c-IPL Teams Layout</members>
+        <members>Match_Fixtures__c-Match Fixtures Layout</members>
         <members>Player_Stats__c-Player Stats Layout</members>
         <name>Layout</name>
     </types>
     <types>
         <members>Animal__c.All</members>
         <members>IPL_Teams__c.All</members>
+        <members>Match_Fixtures__c.All</members>
         <members>Player_Stats__c.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Test_Permission</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>Leo</members>
+        <name>Profile</name>
     </types>
 </Package>
