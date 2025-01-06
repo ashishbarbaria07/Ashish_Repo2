@@ -3,6 +3,8 @@
     <types>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
+        <members>EdenGarden</members>
+        <members>EdenGardenTest</members>
         <members>Square</members>
         <members>SquareTest</members>
         <name>ApexClass</name>
@@ -21,6 +23,8 @@
         <members>Player_Stats__c.Runs_Scored__c</members>
         <members>Season_Records__c.Season_Year__c</members>
         <members>Season_Records__c.Winning_Team__c</members>
+        <members>Stadium_Details__c.Seating_Capacity__c</members>
+        <members>Stadium_Details__c.Stadium_Name__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -37,6 +41,7 @@
         <members>Match_Fixtures__c</members>
         <members>Player_Stats__c</members>
         <members>Season_Records__c</members>
+        <members>Stadium_Details__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -59,6 +64,7 @@
         <members>Match_Fixtures__c-Match Fixtures Layout</members>
         <members>Player_Stats__c-Player Stats Layout</members>
         <members>Season_Records__c-Season Records Layout</members>
+        <members>Stadium_Details__c-Stadium Details Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -67,6 +73,7 @@
         <members>Match_Fixtures__c.All</members>
         <members>Player_Stats__c.All</members>
         <members>Season_Records__c.All</members>
+        <members>Stadium_Details__c.All</members>
         <name>ListView</name>
     </types>
     <types>
@@ -76,5 +83,9 @@
     <types>
         <members>Leo</members>
         <name>Profile</name>
+    </types>
+    <types>
+        <members>Stadium_Details__c.Test_Validation_1</members>
+        <name>ValidationRule</name>
     </types>
 </Package>
