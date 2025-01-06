@@ -3,6 +3,8 @@
     <types>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
+        <members>Square</members>
+        <members>SquareTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -17,25 +19,46 @@
         <members>Player_Stats__c.Player_Name__c</members>
         <members>Player_Stats__c.Player_Role__c</members>
         <members>Player_Stats__c.Runs_Scored__c</members>
+        <members>Season_Records__c.Season_Year__c</members>
+        <members>Season_Records__c.Winning_Team__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>Welcome_Message</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>CustomLabels</members>
+        <name>CustomLabels</name>
     </types>
     <types>
         <members>Animal__c</members>
         <members>IPL_Teams__c</members>
         <members>Match_Fixtures__c</members>
         <members>Player_Stats__c</members>
+        <members>Season_Records__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>IPL_Teams__c</members>
+        <members>Match_Fixtures__c</members>
         <members>Player_Stats__c</members>
         <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Account_Flow_1</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Account_Flow_1</members>
+        <name>FlowDefinition</name>
     </types>
     <types>
         <members>Animal__c-Animal Layout</members>
         <members>IPL_Teams__c-IPL Teams Layout</members>
         <members>Match_Fixtures__c-Match Fixtures Layout</members>
         <members>Player_Stats__c-Player Stats Layout</members>
+        <members>Season_Records__c-Season Records Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -43,6 +66,7 @@
         <members>IPL_Teams__c.All</members>
         <members>Match_Fixtures__c.All</members>
         <members>Player_Stats__c.All</members>
+        <members>Season_Records__c.All</members>
         <name>ListView</name>
     </types>
     <types>
