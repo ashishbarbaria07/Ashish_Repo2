@@ -2507,6 +2507,8 @@
         <members>Solution.SolutionName</members>
         <members>Solution.SolutionNote</members>
         <members>Solution.Status</members>
+        <members>Stadium_Details__c.Seating_Capacity__c</members>
+        <members>Stadium_Details__c.Stadium_Name__c</members>
         <members>StreamActivityAccess.ActivityTeamId</members>
         <members>StreamActivityAccess.ExternalResource</members>
         <members>StreamActivityAccess.IsContentShared</members>
@@ -3068,6 +3070,7 @@
         <members>SkillRequirement</members>
         <members>SocialPersona</members>
         <members>Solution</members>
+        <members>Stadium_Details__c</members>
         <members>StandardShippingRate</members>
         <members>StreamActivityAccess</members>
         <members>StreamingChannel</members>
@@ -3556,6 +3559,7 @@
         <members>SocialPersona.AllSocialPersonas</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
+        <members>Stadium_Details__c.All</members>
         <members>Task.CompletedTasks</members>
         <members>Task.DelegatedTasks</members>
         <members>Task.OpenTasks</members>
@@ -4124,6 +4128,7 @@
     <types>
         <members>Doctor__c.DocValid</members>
         <members>Math__c.Validation1</members>
+        <members>Stadium_Details__c.Test_Validation_1</members>
         <name>ValidationRule</name>
     </types>
     <types>
