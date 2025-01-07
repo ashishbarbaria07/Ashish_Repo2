@@ -2789,6 +2789,7 @@
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
         <members>Zen__c.Milli__c</members>
+        <members>vip__c.pm__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -3076,6 +3077,7 @@
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
         <members>Zen__c</members>
+        <members>vip__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -3525,6 +3527,7 @@
         <members>WorkTypeGroup.All_WorkTypeGroups</members>
         <members>WorkTypeGroup.My_WorkTypeGroups</members>
         <members>Zen__c.All</members>
+        <members>vip__c.All</members>
         <name>ListView</name>
     </types>
     <types>
