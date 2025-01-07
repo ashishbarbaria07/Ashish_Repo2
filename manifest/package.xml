@@ -2543,6 +2543,7 @@
         <members>TimeSlot.TimeSlotNumber</members>
         <members>TimeSlot.Type</members>
         <members>TimeSlot.WorkTypeGroupId</members>
+        <members>Tree__c.Green_Trees__c</members>
         <members>User.ManagerId</members>
         <members>UserProvisioningRequest.AppName</members>
         <members>UserProvisioningRequest.ApprovalStatus</members>
@@ -3079,6 +3080,7 @@
         <members>TimeSlot</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
+        <members>Tree__c</members>
         <members>User</members>
         <members>UserExternalCredential</members>
         <members>UserLocalWebServerIdentity</members>
@@ -3567,6 +3569,7 @@
         <members>Task.RecurringTasks</members>
         <members>Task.TodaysTasks</members>
         <members>Task.UnscheduledTasks</members>
+        <members>Tree__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
