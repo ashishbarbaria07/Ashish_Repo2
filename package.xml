@@ -9,6 +9,8 @@
         <members>EdenGardenTest</members>
         <members>Square</members>
         <members>SquareTest</members>
+        <members>Van</members>
+        <members>VanTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -21,6 +23,8 @@
         <members>IPL_Teams__c.AutorabitExtId__c</members>
         <members>IPL_Teams__c.Number_of_Titles_Won__c</members>
         <members>IPL_Teams__c.Team_Name__c</members>
+        <members>Light__c.Main_Lights__c</members>
+        <members>Light__c.Street_Light__c</members>
         <members>Manager__c.Department__c</members>
         <members>Manager__c.SubManagers__c</members>
         <members>Match_Fixtures__c.AutorabitExtId__c</members>
@@ -55,6 +59,7 @@
         <members>Animal__c</members>
         <members>Donation__c</members>
         <members>IPL_Teams__c</members>
+        <members>Light__c</members>
         <members>Manager__c</members>
         <members>Match_Fixtures__c</members>
         <members>Player_Stats__c</members>
@@ -87,6 +92,7 @@
         <members>Animal__c-Animal Layout</members>
         <members>Donation__c-Donation Layout</members>
         <members>IPL_Teams__c-IPL Teams Layout</members>
+        <members>Light__c-Light Layout</members>
         <members>Manager__c-Manager Layout</members>
         <members>Match_Fixtures__c-Match Fixtures Layout</members>
         <members>Player_Stats__c-Player Stats Layout</members>
@@ -101,6 +107,7 @@
         <members>Animal__c.All</members>
         <members>Donation__c.All</members>
         <members>IPL_Teams__c.All</members>
+        <members>Light__c.All</members>
         <members>Manager__c.All</members>
         <members>Match_Fixtures__c.All</members>
         <members>Player_Stats__c.All</members>
