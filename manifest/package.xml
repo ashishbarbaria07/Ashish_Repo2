@@ -4,6 +4,8 @@
         <members>Rocket</members>
         <members>Tester</members>
         <members>TesterTest</members>
+        <members>Van</members>
+        <members>VanTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -1646,6 +1648,8 @@
         <members>LegalEntity.Name</members>
         <members>LegalEntity.OwnerId</members>
         <members>LegalEntity.Status</members>
+        <members>Light__c.Main_Lights__c</members>
+        <members>Light__c.Street_Light__c</members>
         <members>Location.CloseDate</members>
         <members>Location.ConstructionEndDate</members>
         <members>Location.ConstructionStartDate</members>
@@ -2935,6 +2939,7 @@
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>LegalEntity</members>
+        <members>Light__c</members>
         <members>Location</members>
         <members>LocationGroup</members>
         <members>LocationGroupAssignment</members>
@@ -3447,6 +3452,7 @@
         <members>Lead.ViewCustom1</members>
         <members>Lead.ViewCustom2</members>
         <members>LegalEntity.mine</members>
+        <members>Light__c.All</members>
         <members>Location.all_locations</members>
         <members>LocationGroup.LocationGroup</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
