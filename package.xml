@@ -2813,6 +2813,7 @@
         <members>WorkTypeGroup.OwnerId</members>
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
+        <members>Zen__c.Milli__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -3109,6 +3110,7 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
+        <members>Zen__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -3585,6 +3587,7 @@
         <members>WorkType.My_WorkTypes</members>
         <members>WorkTypeGroup.All_WorkTypeGroups</members>
         <members>WorkTypeGroup.My_WorkTypeGroups</members>
+        <members>Zen__c.All</members>
         <name>ListView</name>
     </types>
     <types>
