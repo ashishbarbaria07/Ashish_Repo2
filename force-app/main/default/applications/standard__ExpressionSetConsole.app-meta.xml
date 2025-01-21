@@ -10,8 +10,16 @@
     <tabs>standard-DecisionTable</tabs>
     <tabs>standard-ExpressionSetTemplate</tabs>
     <tabs>standard-ExpressionSet</tabs>
+    <tabs>Manager__c</tabs>
+    <tabs>Stadium_Details__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>Manager__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Stadium_Details__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-DecisionTable</tab>
         </mappings>

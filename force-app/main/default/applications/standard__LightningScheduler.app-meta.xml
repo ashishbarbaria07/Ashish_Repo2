@@ -14,5 +14,7 @@
     <tabs>standard-WorkType</tabs>
     <tabs>standard-OperatingHours</tabs>
     <tabs>standard-ServiceAppointment</tabs>
+    <tabs>Manager__c</tabs>
+    <tabs>Stadium_Details__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

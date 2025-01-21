@@ -8,5 +8,7 @@
     <label>LightningInstrumentation</label>
     <navType>Standard</navType>
     <tabs>standard-LightningInstrumentation</tabs>
+    <tabs>Manager__c</tabs>
+    <tabs>Stadium_Details__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

@@ -6,4 +6,6 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <tabs>standard-Chatter</tabs>
+    <tabs>Manager__c</tabs>
+    <tabs>Stadium_Details__c</tabs>
 </CustomApplication>

@@ -181,7 +181,15 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>Manager__c</tabs>
+    <tabs>Stadium_Details__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>Manager__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Stadium_Details__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
