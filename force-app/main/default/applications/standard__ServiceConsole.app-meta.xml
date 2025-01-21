@@ -189,18 +189,66 @@
     <tabs>VirtualEvent__c</tabs>
     <tabs>King__c</tabs>
     <tabs>Queen__c</tabs>
+    <tabs>IPL_Teams__c</tabs>
+    <tabs>Player_Stats__c</tabs>
+    <tabs>Match_Fixtures__c</tabs>
+    <tabs>Season_Records__c</tabs>
+    <tabs>Stadium_Details__c</tabs>
+    <tabs>Employee__c</tabs>
+    <tabs>Ticket__c</tabs>
+    <tabs>Workout__c</tabs>
+    <tabs>Donation__c</tabs>
+    <tabs>Manager__c</tabs>
+    <tabs>Director__c</tabs>
+    <tabs>Tree__c</tabs>
+    <tabs>Zen__c</tabs>
+    <tabs>vip__c</tabs>
+    <tabs>Light__c</tabs>
+    <tabs>freedom123__c</tabs>
+    <tabs>Pigeon__c</tabs>
+    <tabs>Alarm__c</tabs>
     <workspaceConfig>
         <mappings>
+            <tab>Alarm__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Director__c</tab>
+        </mappings>
+        <mappings>
             <tab>Doctor__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Donation__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Employee__c</tab>
         </mappings>
         <mappings>
             <tab>Engineer__c</tab>
         </mappings>
         <mappings>
+            <tab>IPL_Teams__c</tab>
+        </mappings>
+        <mappings>
             <tab>King__c</tab>
         </mappings>
         <mappings>
+            <tab>Light__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Manager__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Match_Fixtures__c</tab>
+        </mappings>
+        <mappings>
             <tab>Math__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Pigeon__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Player_Stats__c</tab>
         </mappings>
         <mappings>
             <tab>Queen__c</tab>
@@ -212,7 +260,28 @@
             <tab>Scientist__c</tab>
         </mappings>
         <mappings>
+            <tab>Season_Records__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Stadium_Details__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Ticket__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Tree__c</tab>
+        </mappings>
+        <mappings>
             <tab>VirtualEvent__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Workout__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Zen__c</tab>
+        </mappings>
+        <mappings>
+            <tab>freedom123__c</tab>
         </mappings>
         <mappings>
             <tab>standard-Account</tab>
@@ -231,6 +300,9 @@
         <mappings>
             <fieldName>AccountId</fieldName>
             <tab>standard-Opportunity</tab>
+        </mappings>
+        <mappings>
+            <tab>vip__c</tab>
         </mappings>
     </workspaceConfig>
 </CustomApplication>

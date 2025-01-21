@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Position__c</fullName>
+    <label>Position</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Senior Director</fullName>
+                <default>false</default>
+                <label>Senior Director</label>
+            </value>
+            <value>
+                <fullName>Vice Director</fullName>
+                <default>false</default>
+                <label>Vice Director</label>
+            </value>
+            <value>
+                <fullName>Junior Director</fullName>
+                <default>false</default>
+                <label>Junior Director</label>
+            </value>
+            <value>
+                <fullName>Associate Director</fullName>
+                <default>false</default>
+                <label>Associate Director</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Player Role --></label>
+    <name>Player_Role__c</name>
+    <picklistValues>
+        <masterLabel>All-rounder</masterLabel>
+        <translation><!-- All-rounder --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Batsman</masterLabel>
+        <translation><!-- Batsman --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Bowler</masterLabel>
+        <translation><!-- Bowler --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Wicketkeeper</masterLabel>
+        <translation><!-- Wicketkeeper --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
