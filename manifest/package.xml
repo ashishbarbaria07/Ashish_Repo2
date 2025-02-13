@@ -2544,6 +2544,7 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>Test_Object_1__c.TPO__c</members>
         <members>Ticket__c.Issue_Description__c</members>
         <members>Ticket__c.Priority__c</members>
         <members>TimeSlot.DayOfWeek</members>
@@ -3089,6 +3090,7 @@
         <members>StreamingChannel</members>
         <members>TableauHostMapping</members>
         <members>Task</members>
+        <members>Test_Object_1__c</members>
         <members>Ticket__c</members>
         <members>TimeSlot</members>
         <members>Topic</members>
