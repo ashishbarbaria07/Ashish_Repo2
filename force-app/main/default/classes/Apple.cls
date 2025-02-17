@@ -10,7 +10,7 @@ public class Apple {
     public String describe() {
         return 'This apple is ' + color + ' and weighs ' + weight + ' grams.';
     }
-
+// this is for demo test - 1
     public Boolean isEdible() {
         return weight > 0; // Simplified condition
     }
