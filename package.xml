@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>61.0</version>
+    <version>63.0</version>
     <types>
         <members>Apple</members>
         <members>AppleTest</members>
@@ -2723,6 +2723,8 @@
         <members>WebStoreInventorySource.LocationSourceId</members>
         <members>WebStoreInventorySource.ReservationDurationInSeconds</members>
         <members>WebStoreInventorySource.WebStoreId</members>
+        <members>Winter__c.Winter23__c</members>
+        <members>Winter__c.Winter24__c</members>
         <members>WorkOrder.AccountId</members>
         <members>WorkOrder.Address</members>
         <members>WorkOrder.AssetId</members>
