@@ -2552,6 +2552,8 @@
         <members>StreamActivityAccess.IsContentShared</members>
         <members>StreamActivityAccess.Name</members>
         <members>StreamActivityAccess.OwnerId</members>
+        <members>Summer__c.Summer23__c</members>
+        <members>Summer__c.Summer24__c</members>
         <members>Task.ActivityDate</members>
         <members>Task.CallDisposition</members>
         <members>Task.CallDurationInSeconds</members>
@@ -3131,6 +3133,7 @@
         <members>StandardShippingRate</members>
         <members>StreamActivityAccess</members>
         <members>StreamingChannel</members>
+        <members>Summer__c</members>
         <members>TableauHostMapping</members>
         <members>Task</members>
         <members>Test_Object_1__c</members>
@@ -3686,6 +3689,7 @@
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
         <members>Stadium_Details__c.All</members>
+        <members>Summer__c.All</members>
         <members>Task.CompletedTasks</members>
         <members>Task.DelegatedTasks</members>
         <members>Task.OpenTasks</members>
