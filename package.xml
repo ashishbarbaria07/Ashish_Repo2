@@ -44,6 +44,7 @@
         <members>DoctorTrigger</members>
         <members>EngineerTrigger</members>
         <members>PlayerStatsTrigger</members>
+        <members>SummerTrigger</members>
         <name>ApexTrigger</name>
     </types>
     <types>
