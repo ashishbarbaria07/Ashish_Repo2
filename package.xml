@@ -3033,6 +3033,7 @@
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
         <members>Mobile__c</members>
+        <members>MyHome__c</members>
         <members>OperatingHours</members>
         <members>OperatingHoursHoliday</members>
         <members>Opportunity</members>
@@ -3630,6 +3631,7 @@
         <members>Math__c.All</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
         <members>Mobile__c.All</members>
+        <members>MyHome__c.All</members>
         <members>OperatingHours.All_OperatingHours</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>
