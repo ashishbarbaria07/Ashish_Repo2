@@ -16,6 +16,8 @@
         <members>EdenGardenTest</members>
         <members>House</members>
         <members>HouseTest</members>
+        <members>India</members>
+        <members>IndiaTest</members>
         <members>Intern</members>
         <members>InternTest</members>
         <members>Playstation</members>
@@ -24,12 +26,16 @@
         <members>PushpaTest</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
+        <members>SkyView</members>
         <members>Square</members>
         <members>SquareTest</members>
+        <members>Star</members>
         <members>Tester</members>
         <members>TesterTest</members>
+        <members>Torch</members>
         <members>Triangle</members>
         <members>TriangleTest</members>
+        <members>Twitza</members>
         <members>Van</members>
         <members>VanTest</members>
         <name>ApexClass</name>
