@@ -8,7 +8,6 @@
         <members>BooksTest</members>
         <members>Bottle</members>
         <members>BottleTest</members>
-        <members>Circle</members>
         <members>CircleTest</members>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>

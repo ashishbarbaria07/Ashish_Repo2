@@ -141,10 +141,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>Circle</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>CircleTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
