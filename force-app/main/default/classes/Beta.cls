@@ -1,7 +1,7 @@
 public class Beta {
 
     public static String sayHello(String name) {
-        return 'Hello, ' + name + '!';
+        return 'Hello1, ' + name + '!';
     }
 
     public static Integer doubleNumber(Integer number) {
