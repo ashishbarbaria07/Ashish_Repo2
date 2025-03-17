@@ -10,19 +10,29 @@ public class Playstation {
         this.isAvailable = isAvailable;
     }
 
-    public void restock(Integer amount) {
-        if (amount > 0) {
-            this.price += amount; //Instead of changing quantity, restock will increase the price.
-        } else {
-            throw new IllegalArgumentException('Restock amount must be greater than 0.');
+    public void applyWarranty(Integer warrantyYears) {
+        if (warrantyYears > 0) {
+            this.price += (warrantyYears * 50);
         }
     }
 
-    public Decimal calculateTotalPrice() {
-        return this.price * (this.isAvailable ? 1 : 0); //If available, return the price, else return 0.
+    public String getStatus() {
+        if (this.isAvailable) {
+            return 'Available for purchase. Price: $' + this.price;
+        } else {
+            return 'Currently out of stock.';
+        }
     }
 
-    public Boolean isStockAvailable(){
-        return this.isAvailable;
+    public void toggleAvailability() {
+        this.isAvailable = !this.isAvailable;
+    }
+
+    public Decimal calculateTaxedPrice(Decimal taxRate) {
+        if (taxRate >= 0 && taxRate <= 100) {
+            return this.price + (this.price * (taxRate / 100));
+        } else {
+            throw new IllegalArgumentException('Tax rate must be between 0 and 100.');
+        }
     }
 }
