@@ -3794,7 +3794,6 @@
         <members>Chatter Moderator User</members>
         <members>ContractManager</members>
         <members>Cross Org Data Proxy User</members>
-        <members>Custom ES profile</members>
         <members>Custom%3A Marketing Profile</members>
         <members>Custom%3A Sales Profile</members>
         <members>Custom%3A Support Profile</members>
@@ -3829,10 +3828,7 @@
         <members>Standard</members>
         <members>StandardAul</members>
         <members>Work%2Ecom Only User</members>
-        <members>Yaswanth Custom</members>
-        <members>custom-vin</members>
         <members>mufasa</members>
-        <members>test profile 2</members>
         <name>Profile</name>
     </types>
     <types>
