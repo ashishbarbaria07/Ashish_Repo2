@@ -6,7 +6,8 @@ public class Apple {
         this.color = color;
         this.weight = weight;
     }
-
+//source
+//kjkjj
     public String describe() {
         return 'This apple is ' + color + ' and weighs ' + weight + ' grams.';
     }
