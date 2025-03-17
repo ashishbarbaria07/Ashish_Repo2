@@ -17,7 +17,8 @@ public class Apple {
         return weight > 0; // Simplified condition
     }
 
-
+//bhjbjhk
+//bjbbhhb
     public static String getAppleType(Integer weight) {
         if (weight > 200) {
             return 'Large Apple';
