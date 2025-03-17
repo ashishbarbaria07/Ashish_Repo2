@@ -2002,6 +2002,8 @@
         <members>PaymentMethod.PaymentMethodSubType</members>
         <members>PaymentMethod.PaymentMethodType</members>
         <members>PaymentMethod.Status</members>
+        <members>Pivot_1__c.TP_1__c</members>
+        <members>Pivot_2__c.PV_2__c</members>
         <members>Player_Stats__c.Player_Name__c</members>
         <members>Player_Stats__c.Player_Role__c</members>
         <members>Player_Stats__c.Runs_Scored__c</members>
@@ -3038,6 +3040,7 @@
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
         <members>Mobile__c</members>
+        <members>MyHome__c</members>
         <members>OperatingHours</members>
         <members>OperatingHoursHoliday</members>
         <members>Opportunity</members>
@@ -3060,6 +3063,8 @@
         <members>PaymentLineInvoice</members>
         <members>PaymentMethod</members>
         <members>Pigeon__c</members>
+        <members>Pivot_1__c</members>
+        <members>Pivot_2__c</members>
         <members>Player_Stats__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
@@ -3635,6 +3640,7 @@
         <members>Math__c.All</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
         <members>Mobile__c.All</members>
+        <members>MyHome__c.All</members>
         <members>OperatingHours.All_OperatingHours</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>
@@ -3656,6 +3662,7 @@
         <members>PaymentGroup.PaymentGroup</members>
         <members>PaymentLineInvoice.PaymentLineInvoice</members>
         <members>Pigeon__c.All</members>
+        <members>Pivot_2__c.All</members>
         <members>Player_Stats__c.All</members>
         <members>Pricebook2.All_Pricebooks</members>
         <members>ProcessException.all_process_exceptions</members>
@@ -3754,6 +3761,7 @@
         <members>Test_Permission</members>
         <members>Test_Permission_Set_1</members>
         <members>sfdcInternalInt__sfdc_scrt2</members>
+        <members>test</members>
         <name>PermissionSet</name>
     </types>
     <types>
@@ -3786,6 +3794,7 @@
         <members>Chatter Moderator User</members>
         <members>ContractManager</members>
         <members>Cross Org Data Proxy User</members>
+        <members>Custom ES profile</members>
         <members>Custom%3A Marketing Profile</members>
         <members>Custom%3A Sales Profile</members>
         <members>Custom%3A Support Profile</members>
@@ -3820,7 +3829,10 @@
         <members>Standard</members>
         <members>StandardAul</members>
         <members>Work%2Ecom Only User</members>
+        <members>Yaswanth Custom</members>
+        <members>custom-vin</members>
         <members>mufasa</members>
+        <members>test profile 2</members>
         <name>Profile</name>
     </types>
     <types>

@@ -145,20 +145,19 @@
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableFeeds>false</enableFeeds>
-    <enableHistory>true</enableHistory>
+    <enableHistory>false</enableHistory>
     <enableLicensing>false</enableLicensing>
     <enableReports>false</enableReports>
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Engineer</label>
+    <label>Pivot 2</label>
     <nameField>
-        <label>Engineer Name</label>
-        <trackHistory>false</trackHistory>
+        <label>Pivot 2 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Engineer</pluralLabel>
+    <pluralLabel>Pivots</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
