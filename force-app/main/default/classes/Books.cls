@@ -1,5 +1,5 @@
 public class Books {
-    // Properties of a Book
+    // Properties of a Books
     public String title { get; set; }
     public String author { get; set; }
     public Integer publicationYear { get; set; }
