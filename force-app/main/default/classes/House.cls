@@ -10,6 +10,6 @@ public class House {
 
     // Method to check if the house is big
     public Boolean isBigHouse() {
-        return numberOfRooms > 5;
+        return numberOfRooms > 6;
     }
 }
