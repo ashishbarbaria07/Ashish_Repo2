@@ -21,7 +21,7 @@ public class Apple {
 
     public static String getAppleType(Integer weight) {
         if (weight > 200) {
-            return 'Large Apple';
+            return 'Large Appledd';
         } else if (weight > 100) {
             return 'Medium Apple';
         } else if (weight > 0) {
