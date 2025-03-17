@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Ashish_Custom</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Ashish Custom</shortDescription>
+        <value>https://dev/page/usage</value>
+    </labels>
+    <labels>
         <fullName>Scientist_URL</fullName>
         <language>en_US</language>
         <protected>true</protected>

@@ -156,7 +156,7 @@
     <label>IPL Teams</label>
     <nameField>
         <label>IPL Teams Name</label>
-        <trackHistory>false</trackHistory>
+        <trackHistory>true</trackHistory>
         <type>Text</type>
     </nameField>
     <pluralLabel>IPL Teams</pluralLabel>

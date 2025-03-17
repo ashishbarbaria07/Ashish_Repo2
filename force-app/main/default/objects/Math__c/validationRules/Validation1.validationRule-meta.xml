@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Validation1</fullName>
+    <active>true</active>
+    <errorConditionFormula>Sem_1_Marks__c &gt; 0</errorConditionFormula>
+    <errorMessage>marks should be greater than 0</errorMessage>
+</ValidationRule>

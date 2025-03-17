@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Position --></label>
+    <name>Position__c</name>
+    <picklistValues>
+        <masterLabel>Associate Director</masterLabel>
+        <translation><!-- Associate Director --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Junior Director</masterLabel>
+        <translation><!-- Junior Director --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Senior Director</masterLabel>
+        <translation><!-- Senior Director --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Vice Director</masterLabel>
+        <translation><!-- Vice Director --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
