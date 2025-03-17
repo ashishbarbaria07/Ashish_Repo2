@@ -1,7 +1,7 @@
 public class Bottle {
     // Method to return the capacity of the bottle
     public static Integer getCapacity() {
-        return 1000; // Capacity in milliliters
+        return 10000; // Capacity in milliliters
     }
 
     // Method to return if the bottle is full
