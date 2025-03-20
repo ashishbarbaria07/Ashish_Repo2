@@ -6,8 +6,7 @@ public class Apple {
         this.color = color;
         this.weight = weight;
     }
-//source
-//kjkjj
+
     public String describe() {
         return 'This apple is ' + color + ' and weighs ' + weight + ' grams.';
     }
@@ -21,7 +20,7 @@ public class Apple {
 
     public static String getAppleType(Integer weight) {
         if (weight > 200) {
-            return 'Large Appledd';
+            return 'Large Apple';
         } else if (weight > 100) {
             return 'Medium Apple';
         } else if (weight > 0) {
