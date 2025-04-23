@@ -30,6 +30,8 @@
         <members>Square</members>
         <members>SquareTest</members>
         <members>Star</members>
+        <members>StringUtility</members>
+        <members>StringUtilityTest</members>
         <members>Tester</members>
         <members>TesterTest</members>
         <members>Torch</members>
