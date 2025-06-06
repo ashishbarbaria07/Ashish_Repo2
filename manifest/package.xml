@@ -2872,6 +2872,7 @@
         <members>Workout__c.Workout_Type__c</members>
         <members>Zen__c.Milli__c</members>
         <members>vip__c.pm__c</members>
+        <members>zin__c.bottle_opener__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -3187,6 +3188,7 @@
         <members>Zen__c</members>
         <members>freedom123__c</members>
         <members>vip__c</members>
+        <members>zin__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -3733,6 +3735,7 @@
         <members>Zen__c.All</members>
         <members>freedom123__c.All</members>
         <members>vip__c.All</members>
+        <members>zin__c.All</members>
         <name>ListView</name>
     </types>
     <types>
