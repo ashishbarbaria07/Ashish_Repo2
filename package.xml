@@ -27,6 +27,7 @@
         <members>Rocket</members>
         <members>ScientistHandler</members>
         <members>SkyView</members>
+        <members>Speaker</members>
         <members>Square</members>
         <members>SquareTest</members>
         <members>Star</members>
@@ -2950,6 +2951,7 @@
         <members>CommSubscriptionChannelType</members>
         <members>CommSubscriptionConsent</members>
         <members>CommSubscriptionTiming</members>
+        <members>Connector__c</members>
         <members>ConsumptionRate</members>
         <members>ConsumptionSchedule</members>
         <members>Contact</members>
@@ -3222,6 +3224,7 @@
     </types>
     <types>
         <members>Alarm__c</members>
+        <members>Connector__c</members>
         <members>Director__c</members>
         <members>Doctor__c</members>
         <members>Donation__c</members>
@@ -3383,6 +3386,7 @@
         <members>CaseClose-Close Case Layout</members>
         <members>CaseMilestone-Case Milestone Layout</members>
         <members>CommunityMemberLayout-Community Member Layout</members>
+        <members>Connector__c-Connector Layout</members>
         <members>ConsumptionRate-Consumption Rate Layout</members>
         <members>ConsumptionSchedule-Consumption Schedule Layout</members>
         <members>Contact-Contact %28Marketing%29 Layout</members>
@@ -3575,6 +3579,7 @@
         <members>CommSubscriptionChannelType.All_CommSubscriptionChannelTypes</members>
         <members>CommSubscriptionConsent.All_CommSubscriptionConsents</members>
         <members>CommSubscriptionTiming.All_CommSubscriptionTimings</members>
+        <members>Connector__c.All</members>
         <members>ConsumptionSchedule.All_ConsumptionSchedules</members>
         <members>ConsumptionSchedule.My_ConsumptionSchedules</members>
         <members>Contact.AllContacts</members>
