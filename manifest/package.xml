@@ -20,6 +20,8 @@
         <members>Intern</members>
         <members>InternTest</members>
         <members>Mike</members>
+        <members>Motor</members>
+        <members>MotorTest</members>
         <members>Playstation</members>
         <members>PlaystationTest</members>
         <members>Pushpa</members>
@@ -1656,6 +1658,7 @@
         <members>InvoiceLine.TaxRate</members>
         <members>InvoiceLine.Type</members>
         <members>InvoiceLine.UnitPrice</members>
+        <members>June__c.Temp__c</members>
         <members>King__c.Money__c</members>
         <members>King__c.Power__c</members>
         <members>Lead.Address</members>
@@ -3024,6 +3027,7 @@
         <members>InventoryReservation</members>
         <members>Invoice</members>
         <members>InvoiceLine</members>
+        <members>June__c</members>
         <members>King__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
@@ -3635,6 +3639,7 @@
         <members>Incident.AllIncidentsDefault</members>
         <members>Individual.All_Individuals</members>
         <members>Invoice.mine</members>
+        <members>June__c.All</members>
         <members>King__c.All</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
