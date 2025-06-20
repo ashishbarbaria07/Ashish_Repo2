@@ -18,7 +18,6 @@
         <members>IndiaTest</members>
         <members>Intern</members>
         <members>InternTest</members>
-        <members>Knock</members>
         <members>Mike</members>
         <members>Motor</members>
         <members>MotorTest</members>
@@ -331,8 +330,6 @@
         <members>AssociatedLocation.LocationId</members>
         <members>AssociatedLocation.ParentRecordId</members>
         <members>AssociatedLocation.Type</members>
-        <members>Ather__c.Purchase_Date__c</members>
-        <members>Ather__c.Types__c</members>
         <members>AuthorizationForm.DefaultAuthFormTextId</members>
         <members>AuthorizationForm.EffectiveFromDate</members>
         <members>AuthorizationForm.EffectiveToDate</members>
@@ -2914,7 +2911,6 @@
         <members>AssistantProgress</members>
         <members>AssociatedLocation</members>
         <members>AsyncOperationTracker</members>
-        <members>Ather__c</members>
         <members>AuthorizationForm</members>
         <members>AuthorizationFormConsent</members>
         <members>AuthorizationFormDataUse</members>
@@ -3363,7 +3359,6 @@
         <members>AssociatedLocation-Associated Location Layout</members>
         <members>AsyncOperationLog-Async Operation Log Layout</members>
         <members>AsyncOperationTracker-Async Operation Tracker Layout</members>
-        <members>Ather__c-Ather Layout</members>
         <members>AuthorizationForm-Authorization Form Layout</members>
         <members>AuthorizationFormConsent-Authorization Form Consent Layout</members>
         <members>AuthorizationFormDataUse-Authorization Form Data Use Layout</members>
