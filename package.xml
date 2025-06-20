@@ -18,6 +18,7 @@
         <members>IndiaTest</members>
         <members>Intern</members>
         <members>InternTest</members>
+        <members>Knock</members>
         <members>Mike</members>
         <members>Motor</members>
         <members>MotorTest</members>
@@ -330,6 +331,8 @@
         <members>AssociatedLocation.LocationId</members>
         <members>AssociatedLocation.ParentRecordId</members>
         <members>AssociatedLocation.Type</members>
+        <members>Ather__c.Purchase_Date__c</members>
+        <members>Ather__c.Types__c</members>
         <members>AuthorizationForm.DefaultAuthFormTextId</members>
         <members>AuthorizationForm.EffectiveFromDate</members>
         <members>AuthorizationForm.EffectiveToDate</members>
@@ -2911,6 +2914,7 @@
         <members>AssistantProgress</members>
         <members>AssociatedLocation</members>
         <members>AsyncOperationTracker</members>
+        <members>Ather__c</members>
         <members>AuthorizationForm</members>
         <members>AuthorizationFormConsent</members>
         <members>AuthorizationFormDataUse</members>
@@ -3227,6 +3231,7 @@
     </types>
     <types>
         <members>Alarm__c</members>
+        <members>Ather__c</members>
         <members>Connector__c</members>
         <members>Director__c</members>
         <members>Doctor__c</members>
@@ -3358,6 +3363,7 @@
         <members>AssociatedLocation-Associated Location Layout</members>
         <members>AsyncOperationLog-Async Operation Log Layout</members>
         <members>AsyncOperationTracker-Async Operation Tracker Layout</members>
+        <members>Ather__c-Ather Layout</members>
         <members>AuthorizationForm-Authorization Form Layout</members>
         <members>AuthorizationFormConsent-Authorization Form Consent Layout</members>
         <members>AuthorizationFormDataUse-Authorization Form Data Use Layout</members>
@@ -3562,6 +3568,7 @@
         <members>AssetAction.AssetAction</members>
         <members>AssetActionSource.AssetActionSource</members>
         <members>AssetStatePeriod.AssetStatePeriod</members>
+        <members>Ather__c.All</members>
         <members>AuthorizationForm.All_AuthorizationForms</members>
         <members>AuthorizationFormConsent.All_AuthorizationFormConsents</members>
         <members>AuthorizationFormDataUse.All_AuthorizationFormDataUses</members>
@@ -3804,8 +3811,10 @@
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
+        <members>Anypoint Integration</members>
         <members>Authenticated Website</members>
         <members>B2B Reordering Portal Buyer Profile</members>
+        <members>CM quarter-1</members>
         <members>Chatter External User</members>
         <members>Chatter Free User</members>
         <members>Chatter Moderator User</members>
@@ -3844,8 +3853,14 @@
         <members>SolutionManager</members>
         <members>Standard</members>
         <members>StandardAul</members>
+        <members>UAT Tester</members>
         <members>Work%2Ecom Only User</members>
+        <members>demotester</members>
+        <members>guardtest</members>
+        <members>guarduat</members>
         <members>mufasa</members>
+        <members>test profile-2</members>
+        <members>testguard</members>
         <name>Profile</name>
     </types>
     <types>
@@ -4330,6 +4345,7 @@
         <name>TopicsForObjects</name>
     </types>
     <types>
+        <members>Ather__c.test_rule_1</members>
         <members>Doctor__c.DocValid</members>
         <members>Math__c.Validation1</members>
         <members>Stadium_Details__c.Test_Validation_1</members>

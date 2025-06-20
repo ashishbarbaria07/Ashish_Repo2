@@ -177,6 +177,10 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>Knock</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>Playstation</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -661,6 +665,16 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>AssignedResource.Role</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Ather__c.Purchase_Date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Ather__c.Types__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -4636,6 +4650,9 @@
         <layout>AsyncOperationTracker-Async Operation Tracker Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Ather__c-Ather Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>AuthorizationForm-Authorization Form Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -5815,6 +5832,10 @@
     </recordTypeVisibilities>
     <tabVisibilities>
         <tab>Alarm__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Ather__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
