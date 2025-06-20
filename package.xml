@@ -2894,7 +2894,6 @@
         <members>AccountContactRole</members>
         <members>Activity</members>
         <members>Address</members>
-        <members>Alarm__c</members>
         <members>AlternativePaymentMethod</members>
         <members>Animal__c</members>
         <members>ApiAnomalyEventStore</members>
@@ -3347,7 +3346,6 @@
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
-        <members>Alarm__c-Alarm Layout</members>
         <members>AlternativePaymentMethod-Alternative Payment Method Layout</members>
         <members>ApiAnomalyEventStore-API Anomaly Event Store Layout</members>
         <members>AppointmentInvitation-Appointment Invitation Layout</members>
