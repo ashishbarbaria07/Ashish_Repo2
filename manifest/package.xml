@@ -3073,6 +3073,7 @@
         <members>PaymentLineInvoice</members>
         <members>PaymentMethod</members>
         <members>Pigeon__c</members>
+        <members>Pirate__c</members>
         <members>Pivot_1__c</members>
         <members>Pivot_2__c</members>
         <members>Player_Stats__c</members>
@@ -3241,6 +3242,7 @@
         <members>Match_Fixtures__c</members>
         <members>Math__c</members>
         <members>Pigeon__c</members>
+        <members>Pirate__c</members>
         <members>Player_Stats__c</members>
         <members>Queen__c</members>
         <members>Science__c</members>
@@ -3470,6 +3472,7 @@
         <members>PaymentGroup-Payment Group Layout</members>
         <members>PaymentLineInvoice-Payment Line Invoice Layout</members>
         <members>Pigeon__c-Pigeon Layout</members>
+        <members>Pirate__c-Pirate Layout</members>
         <members>Player_Stats__c-Player Stats Layout</members>
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
@@ -3677,6 +3680,7 @@
         <members>PaymentGroup.PaymentGroup</members>
         <members>PaymentLineInvoice.PaymentLineInvoice</members>
         <members>Pigeon__c.All</members>
+        <members>Pirate__c.All</members>
         <members>Pivot_2__c.All</members>
         <members>Player_Stats__c.All</members>
         <members>Pricebook2.All_Pricebooks</members>
@@ -4326,7 +4330,6 @@
         <members>Workout__c</members>
         <members>Zen__c</members>
         <members>freedom123__c</members>
-        <members>vip__c</members>
         <name>TopicsForObjects</name>
     </types>
     <types>
