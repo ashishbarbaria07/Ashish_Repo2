@@ -2264,6 +2264,16 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Factory__c.Capacity__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Factory__c.Location__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>FulfillmentOrder.FulfilledFromLocationId</field>
         <readable>false</readable>
@@ -4705,6 +4715,9 @@
         <layout>ExpressionSetVersion-Expression Set Version Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Factory__c-Factory Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>GuestUserAnomalyEventStore-Guest User Anomaly Event Store Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4867,6 +4880,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Engineer__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Factory__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>

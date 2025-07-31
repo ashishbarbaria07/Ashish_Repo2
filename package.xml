@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>63.0</version>
+    <version>64.0</version>
     <types>
         <members>AppleTest</members>
         <members>Bhaskara</members>
@@ -1343,6 +1343,8 @@
         <members>ExpressionSetVersion.ShouldShowExplExternally</members>
         <members>ExpressionSetVersion.StartDateTime</members>
         <members>ExpressionSetVersion.VersionNumber</members>
+        <members>Factory__c.Capacity__c</members>
+        <members>Factory__c.Location__c</members>
         <members>FinanceBalanceSnapshot.AccountId</members>
         <members>FinanceBalanceSnapshot.AdjustmentAmount</members>
         <members>FinanceBalanceSnapshot.Balance</members>
@@ -3005,6 +3007,7 @@
         <members>ExpressionSet</members>
         <members>ExpressionSetVersion</members>
         <members>ExternalEventMapping</members>
+        <members>Factory__c</members>
         <members>FeedItem</members>
         <members>FinanceBalanceSnapshot</members>
         <members>FinanceTransaction</members>
@@ -3237,6 +3240,7 @@
         <members>Donation__c</members>
         <members>Employee__c</members>
         <members>Engineer__c</members>
+        <members>Factory__c</members>
         <members>IPL_Teams__c</members>
         <members>King__c</members>
         <members>Light__c</members>
@@ -3429,6 +3433,7 @@
         <members>Event-Event Layout</members>
         <members>ExpressionSet-Expression Set Layout</members>
         <members>ExpressionSetVersion-Expression Set Version Layout</members>
+        <members>Factory__c-Factory Layout</members>
         <members>FeedItem-Feed Item Layout</members>
         <members>FinanceBalanceSnapshot-Finance Balance Snapshot Layout</members>
         <members>FinanceTransaction-Finance Transaction Layout</members>
@@ -3633,6 +3638,7 @@
         <members>Event.TodaysAgenda</members>
         <members>ExpressionSet.All_DiscoveryProcedures</members>
         <members>ExpressionSet.All_ExpressionSets</members>
+        <members>Factory__c.All</members>
         <members>FinanceBalanceSnapshot.mine</members>
         <members>FinanceTransaction.mine</members>
         <members>FlowOrchestrationInstance.All_Orchestration_Instances</members>
@@ -3866,6 +3872,7 @@
         <members>Case.NewChildCase</members>
         <members>CollaborationGroup.NewGroupMember</members>
         <members>CollaborationGroup.NewGroupRecord</members>
+        <members>Factory__c.Quick_Update_Factory</members>
         <members>FeedItem.NewTaskFromFeedItem</members>
         <members>LogACall</members>
         <members>NewAccount</members>
