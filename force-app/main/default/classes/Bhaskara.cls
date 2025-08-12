@@ -6,7 +6,7 @@ public class Bhaskara {
             System.debug('This is not a quadratic equation.');
             return;
         }
-        // comment on line 9
+        
         Double delta = (b * b) - (4 * a * c);
         
         if (delta > 0) {
