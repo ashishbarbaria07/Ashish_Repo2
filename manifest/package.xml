@@ -206,6 +206,7 @@
         <name>SharingRules</name>
     </types>
     <types>
+        <members>Abc__c.All</members>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
@@ -573,6 +574,7 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>Abc__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
@@ -1464,6 +1466,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Abc__c.test__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
@@ -1471,6 +1474,7 @@
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
+        <members>Account.Customer_Status__c</members>
         <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
@@ -1502,6 +1506,9 @@
         <members>Account.UpsellOpportunity__c</members>
         <members>Account.Website</members>
         <members>Account.YearStarted</members>
+        <members>Account.clone_test__c</members>
+        <members>Account.email_check__c</members>
+        <members>Account.test_clone__c</members>
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
