@@ -133,15 +133,7 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>Bottle</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>BottleTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>Circle</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -162,10 +154,6 @@
     </classAccesses>
     <classAccesses>
         <apexClass>EdenGardenTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>House</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
