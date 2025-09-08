@@ -1528,6 +1528,7 @@
         <members>GuestUserAnomalyEventStore.UserAgent</members>
         <members>GuestUserAnomalyEventStore.UserId</members>
         <members>GuestUserAnomalyEventStore.UserType</members>
+        <members>Health__c.Hospital_Type__c</members>
         <members>IPL_Teams__c.Number_of_Titles_Won__c</members>
         <members>IPL_Teams__c.Team_Name__c</members>
         <members>Idea.Categories</members>
@@ -3022,6 +3023,7 @@
         <members>FulfillmentOrderItemTax</members>
         <members>FulfillmentOrderLineItem</members>
         <members>GuestUserAnomalyEventStore</members>
+        <members>Health__c</members>
         <members>IPL_Teams__c</members>
         <members>Idea</members>
         <members>Image</members>
@@ -3646,6 +3648,7 @@
         <members>FlowOrchestrationWorkItem.ALL_Open_Work_Items</members>
         <members>FlowOrchestrationWorkItem.All_Work_Items</members>
         <members>FulfillmentOrder.all_fulfillment_orders</members>
+        <members>Health__c.All</members>
         <members>IPL_Teams__c.All</members>
         <members>Idea.Ideas_Last_7_Days</members>
         <members>Incident.AllIncidentsDefault</members>
@@ -3825,6 +3828,7 @@
         <members>Chatter Moderator User</members>
         <members>ContractManager</members>
         <members>Cross Org Data Proxy User</members>
+        <members>Custom ES profile</members>
         <members>Custom%3A Marketing Profile</members>
         <members>Custom%3A Sales Profile</members>
         <members>Custom%3A Support Profile</members>
@@ -3860,10 +3864,13 @@
         <members>StandardAul</members>
         <members>UAT Tester</members>
         <members>Work%2Ecom Only User</members>
+        <members>Yaswanth Custom</members>
+        <members>custom-vin</members>
         <members>demotester</members>
         <members>guardtest</members>
         <members>guarduat</members>
         <members>mufasa</members>
+        <members>test profile 2</members>
         <members>test profile-2</members>
         <members>testguard</members>
         <name>Profile</name>
