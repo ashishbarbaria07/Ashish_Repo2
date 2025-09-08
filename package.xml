@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>64.0</version>
+    <version>61.0</version>
     <types>
-        <members>Bottle</members>
-        <members>BottleTest</members>
+        <members>Books</members>
+        <members>BooksTest</members>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
         <members>EdenGarden</members>
         <members>EdenGardenTest</members>
         <members>Rocket</members>
-        <members>Square</members>
-        <members>SquareTest</members>
+        <members>ScientistHandler</members>
         <members>Tester</members>
         <members>TesterTest</members>
         <members>Van</members>
@@ -1181,8 +1180,6 @@
         <members>DigitalWallet.Status</members>
         <members>Doctor__c.Checkup_Date__c</members>
         <members>Doctor__c.Fees__c</members>
-        <members>Donation__c.Donation_Amount__c</members>
-        <members>Donation__c.Donor_Name__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -1485,8 +1482,6 @@
         <members>GuestUserAnomalyEventStore.UserAgent</members>
         <members>GuestUserAnomalyEventStore.UserId</members>
         <members>GuestUserAnomalyEventStore.UserType</members>
-        <members>Health__c.Hospital_Type__c</members>
-        <members>IPL_Teams__c.AutorabitExtId__c</members>
         <members>IPL_Teams__c.Number_of_Titles_Won__c</members>
         <members>IPL_Teams__c.Team_Name__c</members>
         <members>Idea.Categories</members>
@@ -1622,6 +1617,8 @@
         <members>InvoiceLine.TaxRate</members>
         <members>InvoiceLine.Type</members>
         <members>InvoiceLine.UnitPrice</members>
+        <members>King__c.Money__c</members>
+        <members>King__c.Power__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -1708,12 +1705,9 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Macro.StartingContext</members>
-        <members>Manager__c.AutorabitExtId__c</members>
-        <members>Manager__c.Department__c</members>
-        <members>Manager__c.SubManagers__c</members>
-        <members>Match_Fixtures__c.AutorabitExtId__c</members>
         <members>Match_Fixtures__c.Match_Date__c</members>
         <members>Match_Fixtures__c.Teams_Playing__c</members>
+        <members>Math__c.Sem_1_Marks__c</members>
         <members>MessagingEndUser.AccountId</members>
         <members>MessagingEndUser.ContactId</members>
         <members>MessagingEndUser.HasInitialResponseSent</members>
@@ -1969,7 +1963,6 @@
         <members>PaymentMethod.PaymentMethodSubType</members>
         <members>PaymentMethod.PaymentMethodType</members>
         <members>PaymentMethod.Status</members>
-        <members>Player_Stats__c.AutorabitExtId__c</members>
         <members>Player_Stats__c.Player_Name__c</members>
         <members>Player_Stats__c.Player_Role__c</members>
         <members>Player_Stats__c.Runs_Scored__c</members>
@@ -2122,6 +2115,7 @@
         <members>PromotionTier.Name</members>
         <members>PromotionTier.PromotionId</members>
         <members>PromotionTier.Rank</members>
+        <members>Queen__c.Sewak__c</members>
         <members>QuickText.Category</members>
         <members>QuickText.Channel</members>
         <members>QuickText.IsInsertable</members>
@@ -2289,8 +2283,10 @@
         <members>SalesStore.Description</members>
         <members>SalesStore.LocationId</members>
         <members>SalesStore.Name</members>
+        <members>Science__c.Physics__c</members>
         <members>Scientist__c.ISRO__c</members>
         <members>Scientist__c.NASA__c</members>
+        <members>Scientist__c.Scientist_URL__c</members>
         <members>Scorecard.Description</members>
         <members>Scorecard.Name</members>
         <members>Scorecard.OwnerId</members>
@@ -2301,7 +2297,6 @@
         <members>ScorecardMetric.Name</members>
         <members>ScorecardMetric.ReportId</members>
         <members>ScorecardMetric.ScorecardId</members>
-        <members>Season_Records__c.AutorabitExtId__c</members>
         <members>Season_Records__c.Season_Year__c</members>
         <members>Season_Records__c.Winning_Team__c</members>
         <members>Seller.ActiveFromDate</members>
@@ -2516,7 +2511,6 @@
         <members>Solution.SolutionName</members>
         <members>Solution.SolutionNote</members>
         <members>Solution.Status</members>
-        <members>Stadium_Details__c.AutorabitExtId__c</members>
         <members>Stadium_Details__c.Seating_Capacity__c</members>
         <members>Stadium_Details__c.Stadium_Name__c</members>
         <members>StreamActivityAccess.ActivityTeamId</members>
@@ -2545,9 +2539,6 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
-        <members>Test_Object_1__c.TPO__c</members>
-        <members>Ticket__c.Issue_Description__c</members>
-        <members>Ticket__c.Priority__c</members>
         <members>TimeSlot.DayOfWeek</members>
         <members>TimeSlot.EndTime</members>
         <members>TimeSlot.MaxAppointments</members>
@@ -2825,9 +2816,6 @@
         <members>WorkTypeGroup.OwnerId</members>
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
-        <members>Workout__c.Duration__c</members>
-        <members>Workout__c.Workout_Type__c</members>
-        <members>vip__c.pm__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -2933,7 +2921,6 @@
         <members>DeliveryEstimationSetup</members>
         <members>DigitalWallet</members>
         <members>Doctor__c</members>
-        <members>Donation__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
@@ -2963,7 +2950,6 @@
         <members>FulfillmentOrderItemTax</members>
         <members>FulfillmentOrderLineItem</members>
         <members>GuestUserAnomalyEventStore</members>
-        <members>Health__c</members>
         <members>IPL_Teams__c</members>
         <members>Idea</members>
         <members>Image</members>
@@ -2974,6 +2960,7 @@
         <members>InventoryReservation</members>
         <members>Invoice</members>
         <members>InvoiceLine</members>
+        <members>King__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>LegalEntity</members>
@@ -2989,8 +2976,8 @@
         <members>MacroAction</members>
         <members>MacroInstruction</members>
         <members>MacroUsage</members>
-        <members>Manager__c</members>
         <members>Match_Fixtures__c</members>
+        <members>Math__c</members>
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
         <members>OperatingHours</members>
@@ -3040,6 +3027,7 @@
         <members>PromotionTier</members>
         <members>PromptAction</members>
         <members>PromptError</members>
+        <members>Queen__c</members>
         <members>QuickText</members>
         <members>QuickTextUsage</members>
         <members>Recommendation</members>
@@ -3057,6 +3045,7 @@
         <members>RevenueAsyncOperation</members>
         <members>RevenueTransactionErrorLog</members>
         <members>SalesStore</members>
+        <members>Science__c</members>
         <members>Scientist__c</members>
         <members>Scorecard</members>
         <members>ScorecardAssociation</members>
@@ -3092,8 +3081,6 @@
         <members>StreamingChannel</members>
         <members>TableauHostMapping</members>
         <members>Task</members>
-        <members>Test_Object_1__c</members>
-        <members>Ticket__c</members>
         <members>TimeSlot</members>
         <members>Topic</members>
         <members>TopicAssignment</members>
@@ -3125,40 +3112,31 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
-        <members>Workout__c</members>
-        <members>vip__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Animal__c-en_US</members>
         <members>Doctor__c-en_US</members>
-        <members>Donation__c-en_US</members>
         <members>Engineer__c-en_US</members>
-        <members>IPL_Teams__c-en_US</members>
-        <members>Light__c-en_US</members>
-        <members>Manager__c-en_US</members>
-        <members>Match_Fixtures__c-en_US</members>
-        <members>Player_Stats__c-en_US</members>
+        <members>King__c-en_US</members>
+        <members>Math__c-en_US</members>
+        <members>Queen__c-en_US</members>
+        <members>Science__c-en_US</members>
         <members>Scientist__c-en_US</members>
-        <members>Season_Records__c-en_US</members>
-        <members>Stadium_Details__c-en_US</members>
-        <members>Ticket__c-en_US</members>
         <members>VirtualEvent__c-en_US</members>
-        <members>Workout__c-en_US</members>
-        <members>vip__c-en_US</members>
         <name>CustomObjectTranslation</name>
     </types>
     <types>
         <members>Doctor__c</members>
         <members>Engineer__c</members>
         <members>IPL_Teams__c</members>
-        <members>Manager__c</members>
+        <members>King__c</members>
         <members>Match_Fixtures__c</members>
+        <members>Math__c</members>
         <members>Player_Stats__c</members>
+        <members>Queen__c</members>
+        <members>Science__c</members>
         <members>Scientist__c</members>
-        <members>Stadium_Details__c</members>
-        <members>Ticket__c</members>
-        <members>Workout__c</members>
+        <members>VirtualEvent__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -3226,14 +3204,13 @@
     </types>
     <types>
         <members>Account_Flow_1</members>
+        <members>TestFlow1</members>
         <members>TestFlow2</members>
-        <members>Update_Contact_Status_Flow</members>
         <name>Flow</name>
     </types>
     <types>
-        <members>Account_Flow_1</members>
+        <members>TestFlow1</members>
         <members>TestFlow2</members>
-        <members>Update_Contact_Status_Flow</members>
         <name>FlowDefinition</name>
     </types>
     <types>
@@ -3250,7 +3227,6 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>AlternativePaymentMethod-Alternative Payment Method Layout</members>
-        <members>Animal__c-Animal Layout</members>
         <members>ApiAnomalyEventStore-API Anomaly Event Store Layout</members>
         <members>AppointmentInvitation-Appointment Invitation Layout</members>
         <members>Asset-Asset Layout</members>
@@ -3316,7 +3292,6 @@
         <members>DataUsePurpose-Data Use Purpose Layout</members>
         <members>DigitalWallet-Digital Wallet Layout</members>
         <members>Doctor__c-Doctor Layout</members>
-        <members>Donation__c-Donation Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>EngagementChannelType-Engagement Channel Type Layout</members>
@@ -3335,23 +3310,21 @@
         <members>FulfillmentOrderLineItem-Fulfillment Order Product Layout</members>
         <members>Global-Global Layout</members>
         <members>GuestUserAnomalyEventStore-Guest User Anomaly Event Store Layout</members>
-        <members>IPL_Teams__c-IPL Teams Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Individual-Individual Layout</members>
         <members>Invoice-Invoice Layout</members>
         <members>InvoiceLine-Invoice Line Layout</members>
+        <members>King__c-King Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>LegalEntity-Legal Entity Layout</members>
-        <members>Light__c-Light Layout</members>
         <members>Location-Location Layout</members>
         <members>LocationGroup-Location Group Layout</members>
         <members>LocationGroupAssignment-Location Group Assignment Layout</members>
         <members>Macro-Macro Layout</members>
-        <members>Manager__c-Manager Layout</members>
-        <members>Match_Fixtures__c-Match Fixtures Layout</members>
+        <members>Math__c-Math Layout</members>
         <members>OperatingHours-Operating Hours Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
@@ -3367,12 +3340,12 @@
         <members>PaymentGatewayLog-Payment Gateway Log Layout</members>
         <members>PaymentGroup-Payment Group Layout</members>
         <members>PaymentLineInvoice-Payment Line Invoice Layout</members>
-        <members>Player_Stats__c-Player Stats Layout</members>
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>ProcessException-Process Exception Layout</members>
         <members>Product2-Product Layout</members>
         <members>ProductConsumptionSchedule-Product Consumption Schedule Layout</members>
+        <members>Queen__c-Queen Layout</members>
         <members>QuickText-Quick Text Layout</members>
         <members>Refund-Refund Layout</members>
         <members>RefundLinePayment-Refund Line Payment Layout</members>
@@ -3385,11 +3358,11 @@
         <members>ReturnOrderLineItem-Return Order Line Item Layout</members>
         <members>RevenueAsyncOperation-Revenue Async Operation Layout</members>
         <members>RevenueTransactionErrorLog-Revenue Transaction Error Log Layout</members>
+        <members>Science__c-Science Layout</members>
         <members>Scientist__c-Scientist Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
-        <members>Season_Records__c-Season Records Layout</members>
         <members>Seller-Seller Layout</members>
         <members>ServiceAppointment-Service Appointment Layout</members>
         <members>ServiceContract-Service Contract Layout</members>
@@ -3405,11 +3378,9 @@
         <members>ShippingRateGroup-Shipping Rate Group Layout</members>
         <members>SkillRequirement-Skill Requirement Layout</members>
         <members>Solution-Solution Layout</members>
-        <members>Stadium_Details__c-Stadium Details Layout</members>
         <members>StandardShippingRate-Standard Shipping Rate Layout</members>
         <members>Task-Task Layout</members>
         <members>ThreatDetectionFeedback-Threat Detection Feedback Layout</members>
-        <members>Ticket__c-Ticket Layout</members>
         <members>TimeSlot-Time Slot Layout</members>
         <members>User-User Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
@@ -3431,8 +3402,6 @@
         <members>WorkType-Work Type Layout</members>
         <members>WorkTypeGroup-Work Type Group Layout</members>
         <members>WorkTypeGroupMember-Work Type Group Member Layout</members>
-        <members>Workout__c-Workout Layout</members>
-        <members>vip__c-vip Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -3503,7 +3472,6 @@
         <members>DataUsePurpose.All_DataUsePurposes</members>
         <members>DigitalWallet.DigitalWallet</members>
         <members>Doctor__c.All</members>
-        <members>Donation__c.All</members>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <members>EngagementChannelWorkType.All_EngagementChannelWorkTypes</members>
         <members>EngagementChannelWorkType.My_EngagementChannelWorkTypes</members>
@@ -3522,12 +3490,12 @@
         <members>FlowOrchestrationWorkItem.ALL_Open_Work_Items</members>
         <members>FlowOrchestrationWorkItem.All_Work_Items</members>
         <members>FulfillmentOrder.all_fulfillment_orders</members>
-        <members>Health__c.All</members>
         <members>IPL_Teams__c.All</members>
         <members>Idea.Ideas_Last_7_Days</members>
         <members>Incident.AllIncidentsDefault</members>
         <members>Individual.All_Individuals</members>
         <members>Invoice.mine</members>
+        <members>King__c.All</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
         <members>Lead.TodaysLeads</members>
@@ -3537,8 +3505,8 @@
         <members>Light__c.All</members>
         <members>Location.all_locations</members>
         <members>LocationGroup.LocationGroup</members>
-        <members>Manager__c.All</members>
         <members>Match_Fixtures__c.All</members>
+        <members>Math__c.All</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
         <members>OperatingHours.All_OperatingHours</members>
         <members>Opportunity.AllOpportunities</members>
@@ -3568,11 +3536,13 @@
         <members>ProductCategory.All_Product_Categories_List_View</members>
         <members>ProductCategory.Category_Hierarchy_SM</members>
         <members>ProductCategory.Org_ProductCategory_Hierarchy</members>
+        <members>Queen__c.All</members>
         <members>Recommendation.All_Recommendations</members>
         <members>Refund.Refund</members>
         <members>RefundLinePayment.RefundLinePayment</members>
         <members>ReturnOrder.All_ReturnOrders</members>
         <members>ReturnOrder.My_ReturnOrders</members>
+        <members>Science__c.All</members>
         <members>Scientist__c.All</members>
         <members>Scorecard.AllScorecards</members>
         <members>Scorecard.MyScorecards</members>
@@ -3603,7 +3573,6 @@
         <members>Task.RecurringTasks</members>
         <members>Task.TodaysTasks</members>
         <members>Task.UnscheduledTasks</members>
-        <members>Ticket__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
@@ -3619,8 +3588,6 @@
         <members>WorkType.My_WorkTypes</members>
         <members>WorkTypeGroup.All_WorkTypeGroups</members>
         <members>WorkTypeGroup.My_WorkTypeGroups</members>
-        <members>Workout__c.All</members>
-        <members>vip__c.All</members>
         <name>ListView</name>
     </types>
     <types>
@@ -3650,9 +3617,7 @@
         <members>Experience_Profile_Manager</members>
         <members>PS_1</members>
         <members>Test_Permission</members>
-        <members>Test_Permission_Set_1</members>
         <members>sfdcInternalInt__sfdc_scrt2</members>
-        <members>test</members>
         <name>PermissionSet</name>
     </types>
     <types>
@@ -3703,7 +3668,6 @@
         <members>High Volume Customer Portal User</members>
         <members>HighVolumePortal</members>
         <members>Identity User</members>
-        <members>Kalki</members>
         <members>Leo</members>
         <members>MarketingProfile</members>
         <members>Minimum Access - API Only Integrations</members>
@@ -3912,7 +3876,6 @@
         <members>ActivityRecurrence2</members>
         <members>ActivityRecurrence2Exception</members>
         <members>AlternativePaymentMethod</members>
-        <members>Animal__c</members>
         <members>AppointmentInvitation</members>
         <members>Asset</members>
         <members>AssistantInteraction</members>
@@ -3954,7 +3917,6 @@
         <members>DecisionTblFileImportData</members>
         <members>DeliveryEstimationSetup</members>
         <members>Doctor__c</members>
-        <members>Donation__c</members>
         <members>EngagementChannelType</members>
         <members>Engineer__c</members>
         <members>ExchangeUserMapping</members>
@@ -3971,23 +3933,21 @@
         <members>FlowRecord</members>
         <members>FlowTestResult</members>
         <members>FulfillmentOrder</members>
-        <members>IPL_Teams__c</members>
         <members>Image</members>
         <members>Incident</members>
         <members>Individual</members>
         <members>InventoryReservation</members>
         <members>Invoice</members>
+        <members>King__c</members>
         <members>Lead</members>
         <members>LegalEntity</members>
-        <members>Light__c</members>
         <members>ListEmail</members>
         <members>Location</members>
         <members>LocationGroup</members>
         <members>LocationShippingCarrierMethod</members>
         <members>Macro</members>
         <members>MacroUsage</members>
-        <members>Manager__c</members>
-        <members>Match_Fixtures__c</members>
+        <members>Math__c</members>
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
         <members>NotifDeliveryUserPref</members>
@@ -3996,7 +3956,6 @@
         <members>Order</members>
         <members>OrgDeleteRequest</members>
         <members>PartyConsent</members>
-        <members>Player_Stats__c</members>
         <members>PrivacyJobSession</members>
         <members>PrivacyObjectSession</members>
         <members>PrivacyRTBFRequest</members>
@@ -4010,15 +3969,16 @@
         <members>PromotionSegment</members>
         <members>PromptAction</members>
         <members>PromptError</members>
+        <members>Queen__c</members>
         <members>QuickText</members>
         <members>QuickTextUsage</members>
         <members>RecordMergeHistory</members>
         <members>ReportResultBlob</members>
         <members>ReturnOrder</members>
         <members>RevenueTransactionErrorLog</members>
+        <members>Science__c</members>
         <members>Scientist__c</members>
         <members>Scorecard</members>
-        <members>Season_Records__c</members>
         <members>Seller</members>
         <members>ServiceAppointment</members>
         <members>ServiceAppointmentAttendee</members>
@@ -4031,11 +3991,9 @@
         <members>ShippingCarrierMethod</members>
         <members>ShippingConfigurationSet</members>
         <members>SiqUserBlacklist</members>
-        <members>Stadium_Details__c</members>
         <members>StreamActivityAccess</members>
         <members>StreamingChannel</members>
         <members>TableauHostMapping</members>
-        <members>Ticket__c</members>
         <members>TodayGoal</members>
         <members>User</members>
         <members>UserAppMenuCustomization</members>
@@ -4058,8 +4016,6 @@
         <members>WorkStepTemplate</members>
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
-        <members>Workout__c</members>
-        <members>vip__c</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -4132,7 +4088,6 @@
     </types>
     <types>
         <members>Account</members>
-        <members>Animal__c</members>
         <members>Asset</members>
         <members>Campaign</members>
         <members>Case</members>
@@ -4141,25 +4096,22 @@
         <members>ContentDocument</members>
         <members>Contract</members>
         <members>Doctor__c</members>
-        <members>Donation__c</members>
         <members>Engineer__c</members>
         <members>Event</members>
-        <members>IPL_Teams__c</members>
         <members>Incident</members>
+        <members>King__c</members>
         <members>Lead</members>
-        <members>Light__c</members>
-        <members>Manager__c</members>
-        <members>Match_Fixtures__c</members>
+        <members>Math__c</members>
         <members>Opportunity</members>
         <members>Order</members>
-        <members>Player_Stats__c</members>
         <members>Problem</members>
+        <members>Queen__c</members>
         <members>ResourceAbsence</members>
         <members>ResourcePreference</members>
         <members>ReturnOrder</members>
         <members>ReturnOrderLineItem</members>
+        <members>Science__c</members>
         <members>Scientist__c</members>
-        <members>Season_Records__c</members>
         <members>ServiceAppointment</members>
         <members>ServiceResource</members>
         <members>ServiceResourceSkill</members>
@@ -4168,9 +4120,7 @@
         <members>Shift</members>
         <members>Shipment</members>
         <members>Solution</members>
-        <members>Stadium_Details__c</members>
         <members>Task</members>
-        <members>Ticket__c</members>
         <members>VirtualEvent__c</members>
         <members>WorkOrder</members>
         <members>WorkOrderLineItem</members>
@@ -4179,14 +4129,12 @@
         <members>WorkPlanTemplateEntry</members>
         <members>WorkStep</members>
         <members>WorkStepTemplate</members>
-        <members>Workout__c</members>
-        <members>vip__c</members>
         <name>TopicsForObjects</name>
     </types>
     <types>
         <members>Doctor__c.DocValid</members>
+        <members>Math__c.Validation1</members>
         <members>Stadium_Details__c.Test_Validation_1</members>
-        <members>Workout__c.Workout_Validation_1</members>
         <name>ValidationRule</name>
     </types>
     <types>
