@@ -3200,6 +3200,7 @@
         <members>Workout__c</members>
         <members>Zen__c</members>
         <members>freedom123__c</members>
+        <members>onn__c</members>
         <members>vip__c</members>
         <members>zin__c</members>
         <name>CustomObject</name>
@@ -3758,6 +3759,7 @@
         <members>Workout__c.All</members>
         <members>Zen__c.All</members>
         <members>freedom123__c.All</members>
+        <members>onn__c.All</members>
         <members>vip__c.All</members>
         <members>zin__c.All</members>
         <name>ListView</name>
