@@ -2890,6 +2890,7 @@
         <members>Workout__c.Duration__c</members>
         <members>Workout__c.Workout_Type__c</members>
         <members>Zen__c.Milli__c</members>
+        <members>poker__c.rummy_circle__c</members>
         <members>vip__c.pm__c</members>
         <members>zin__c.bottle_opener__c</members>
         <name>CustomField</name>
@@ -3213,6 +3214,7 @@
         <members>freedom123__c</members>
         <members>ink__c</members>
         <members>onn__c</members>
+        <members>poker__c</members>
         <members>vip__c</members>
         <members>zin__c</members>
         <name>CustomObject</name>
@@ -3779,6 +3781,7 @@
         <members>freedom123__c.All</members>
         <members>ink__c.All</members>
         <members>onn__c.All</members>
+        <members>poker__c.All</members>
         <members>vip__c.All</members>
         <members>zin__c.All</members>
         <name>ListView</name>
