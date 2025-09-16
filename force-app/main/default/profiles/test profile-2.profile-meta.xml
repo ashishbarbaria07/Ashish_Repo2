@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <classAccesses>
+        <apexClass>GadgetController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>GadgetControllerTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -11,11 +19,24 @@
         <field>Factory__c.Location__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Gadget__c.Gadget_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Gadget__c.Price__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Ather__c-Ather Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Factory__c-Factory Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Gadget__c-Gadget Layout</layout>
     </layoutAssignments>
     <tabVisibilities>
         <tab>Ather__c</tab>
@@ -23,6 +44,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Factory__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Gadget__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>

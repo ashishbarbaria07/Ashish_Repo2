@@ -161,6 +161,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>GadgetController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>GadgetControllerTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>House</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -2297,6 +2305,16 @@
         <editable>false</editable>
         <field>FulfillmentOrder.TotalProductAmount</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Gadget__c.Gadget_Name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Gadget__c.Price__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -4718,6 +4736,9 @@
         <layout>Factory__c-Factory Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Gadget__c-Gadget Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>GuestUserAnomalyEventStore-Guest User Anomaly Event Store Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -4884,6 +4905,10 @@
     </tabVisibilities>
     <tabVisibilities>
         <tab>Factory__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Gadget__c</tab>
         <visibility>Hidden</visibility>
     </tabVisibilities>
     <tabVisibilities>
