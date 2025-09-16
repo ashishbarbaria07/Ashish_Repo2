@@ -49,6 +49,9 @@
         <members>UTP</members>
         <members>Van</members>
         <members>VanTest</members>
+        <members>Vehicle</members>
+        <members>VehicleHandler</members>
+        <members>VehicleHandlerTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -2623,6 +2626,8 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>Vehicle__c.Model__c</members>
+        <members>Vehicle__c.Year__c</members>
         <members>VirtualEvent__c.AttendeeCount__c</members>
         <members>VirtualEvent__c.EventVenue__c</members>
         <members>VoiceCall.ActivityId</members>
@@ -3179,6 +3184,7 @@
         <members>UserLocalWebServerIdentity</members>
         <members>UserPrioritizedRecord</members>
         <members>UserProvisioningRequest</members>
+        <members>Vehicle__c</members>
         <members>VirtualEvent__c</members>
         <members>VoiceCall</members>
         <members>Waitlist</members>
@@ -3266,6 +3272,7 @@
         <members>Stadium_Details__c</members>
         <members>Ticket__c</members>
         <members>Tree__c</members>
+        <members>Vehicle__c</members>
         <members>VirtualEvent__c</members>
         <members>Workout__c</members>
         <members>Zen__c</members>
@@ -3540,6 +3547,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>Vehicle__c-Vehicle Layout</members>
         <members>VirtualEvent__c-VirtualEvent Layout</members>
         <members>Waitlist-%5F%5FMISSING LABEL%5F%5F PropertyFile - val Waitlist not found in section StandardLayouts</members>
         <members>WebCart-Cart Layout</members>
@@ -3752,6 +3760,7 @@
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
+        <members>Vehicle__c.All</members>
         <members>VirtualEvent__c.All</members>
         <members>VoiceCall.My_VoiceCalls</members>
         <members>Waitlist.All_Waitlists</members>
