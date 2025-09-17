@@ -31,6 +31,8 @@
         <members>PlaystationTest</members>
         <members>Pushpa</members>
         <members>PushpaTest</members>
+        <members>RecipeService</members>
+        <members>RecipeServiceTest</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
         <members>SkyView</members>
@@ -2183,6 +2185,9 @@
         <members>QuickText.Message</members>
         <members>QuickText.Name</members>
         <members>QuickText.OwnerId</members>
+        <members>Recipe__c.Ingredients__c</members>
+        <members>Recipe__c.Name__c</members>
+        <members>Recipe__c.Prep_Time__c</members>
         <members>Recommendation.AcceptanceLabel</members>
         <members>Recommendation.ActionReference</members>
         <members>Recommendation.Description</members>
@@ -3122,6 +3127,7 @@
         <members>Queen__c</members>
         <members>QuickText</members>
         <members>QuickTextUsage</members>
+        <members>Recipe__c</members>
         <members>Recommendation</members>
         <members>RecordAction</members>
         <members>RecordMergeHistory</members>
@@ -3721,6 +3727,7 @@
         <members>ProductCategory.Category_Hierarchy_SM</members>
         <members>ProductCategory.Org_ProductCategory_Hierarchy</members>
         <members>Queen__c.All</members>
+        <members>Recipe__c.All</members>
         <members>Recommendation.All_Recommendations</members>
         <members>Refund.Refund</members>
         <members>RefundLinePayment.RefundLinePayment</members>
