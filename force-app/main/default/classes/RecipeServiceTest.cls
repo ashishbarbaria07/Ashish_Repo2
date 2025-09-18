@@ -9,6 +9,7 @@ public class RecipeServiceTest {
         // Query the inserted record
         Recipe__c r = [SELECT Name, Ingredients__c, Prep_Time__c FROM Recipe__c WHERE Name = 'Pasta Primavera' LIMIT 1];
 
+        // Assertions
         // Assertions news
         System.assertEquals('Pasta, vegetables, olive oil, garlic', r.Ingredients__c);
         System.assertEquals(30, r.Prep_Time__c);
