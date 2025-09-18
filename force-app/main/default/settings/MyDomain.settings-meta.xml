@@ -13,7 +13,7 @@
     <instancedUrlRedirectHandling>NoRedirect</instancedUrlRedirectHandling>
     <isFirstPartyCookieUseRequired>false</isFirstPartyCookieUseRequired>
     <logRedirections>false</logRedirections>
-    <myDomainName>google21-dev-ed</myDomainName>
+    <myDomainName>nvidia-d-dev-ed</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
     <redirectPriorMyDomain>true</redirectPriorMyDomain>

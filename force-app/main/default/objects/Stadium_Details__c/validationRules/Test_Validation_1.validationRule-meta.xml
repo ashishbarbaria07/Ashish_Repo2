@@ -2,6 +2,6 @@
 <ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Test_Validation_1</fullName>
     <active>true</active>
-    <errorConditionFormula>Seating_Capacity__c  &gt;= 30000</errorConditionFormula>
+    <errorConditionFormula>Seating_Capacity__c  &lt;= 30000</errorConditionFormula>
     <errorMessage>The stadium is not meant for International Games.</errorMessage>
 </ValidationRule>

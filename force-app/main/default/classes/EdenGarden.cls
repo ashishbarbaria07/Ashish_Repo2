@@ -14,7 +14,7 @@ public class EdenGarden {
 
     // Method to get match status based on total runs
     public static String getMatchStatus(Integer totalRuns) {
-        if (totalRuns >= 299) {
+        if (totalRuns >= 301) {
             return 'High Scoring Match';
         } else if (totalRuns >= 150) {
             return 'Moderate Scoring Match';

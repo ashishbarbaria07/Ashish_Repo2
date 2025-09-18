@@ -4,7 +4,7 @@ public class Rocket {
     public Decimal fuelCapacity { get; set; } // Maximum fuel capacity
     public Decimal currentFuel { get; private set; } // Current fuel level
     public Boolean isLaunched { get; private set; } // Indicates if the rocket has been launched
-
+	// Test for comparison
     // Constructor
     public Rocket(String name, Decimal fuelCapacity) {
         this.name = name;

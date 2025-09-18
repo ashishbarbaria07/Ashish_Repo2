@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Sem-1 Marks --></label>
+    <name>Sem_1_Marks__c</name>
+</CustomFieldTranslation>

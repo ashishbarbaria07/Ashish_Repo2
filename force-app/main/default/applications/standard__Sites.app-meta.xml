@@ -6,6 +6,30 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <tabs>standard-Chatter</tabs>
-    <tabs>Manager__c</tabs>
+    <tabs>Math__c</tabs>
+    <tabs>Science__c</tabs>
+    <tabs>Engineer__c</tabs>
+    <tabs>Doctor__c</tabs>
+    <tabs>Scientist__c</tabs>
+    <tabs>VirtualEvent__c</tabs>
+    <tabs>King__c</tabs>
+    <tabs>Queen__c</tabs>
+    <tabs>IPL_Teams__c</tabs>
+    <tabs>Player_Stats__c</tabs>
+    <tabs>Match_Fixtures__c</tabs>
+    <tabs>Season_Records__c</tabs>
     <tabs>Stadium_Details__c</tabs>
+    <tabs>Employee__c</tabs>
+    <tabs>Ticket__c</tabs>
+    <tabs>Workout__c</tabs>
+    <tabs>Donation__c</tabs>
+    <tabs>Manager__c</tabs>
+    <tabs>Director__c</tabs>
+    <tabs>Tree__c</tabs>
+    <tabs>Zen__c</tabs>
+    <tabs>vip__c</tabs>
+    <tabs>Light__c</tabs>
+    <tabs>freedom123__c</tabs>
+    <tabs>Pigeon__c</tabs>
+    <tabs>Alarm__c</tabs>
 </CustomApplication>
