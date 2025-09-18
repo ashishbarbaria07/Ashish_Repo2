@@ -7,6 +7,11 @@
         <members>CricketManagerTest</members>
         <members>EdenGarden</members>
         <members>EdenGardenTest</members>
+        <members>GadgetController</members>
+        <members>GadgetControllerTest</members>
+        <members>PickleTest</members>
+        <members>RecipeService</members>
+        <members>RecipeServiceTest</members>
         <members>Rocket</members>
         <members>Square</members>
         <members>SquareTest</members>
@@ -14,6 +19,9 @@
         <members>TesterTest</members>
         <members>Van</members>
         <members>VanTest</members>
+        <members>Vehicle</members>
+        <members>VehicleHandler</members>
+        <members>VehicleHandlerTest</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -1474,6 +1482,8 @@
         <members>FulfillmentOrderLineItem.TotalPrice</members>
         <members>FulfillmentOrderLineItem.TotalTaxAmount</members>
         <members>FulfillmentOrderLineItem.UnitPrice</members>
+        <members>Gadget__c.Gadget_Name__c</members>
+        <members>Gadget__c.Price__c</members>
         <members>GuestUserAnomalyEventStore.EventDate</members>
         <members>GuestUserAnomalyEventStore.EventIdentifier</members>
         <members>GuestUserAnomalyEventStore.RequestedEntities</members>
@@ -2128,6 +2138,9 @@
         <members>QuickText.Message</members>
         <members>QuickText.Name</members>
         <members>QuickText.OwnerId</members>
+        <members>Recipe__c.Ingredients__c</members>
+        <members>Recipe__c.Name__c</members>
+        <members>Recipe__c.Prep_Time__c</members>
         <members>Recommendation.AcceptanceLabel</members>
         <members>Recommendation.ActionReference</members>
         <members>Recommendation.Description</members>
@@ -2568,6 +2581,8 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>Vehicle__c.Model__c</members>
+        <members>Vehicle__c.Year__c</members>
         <members>VirtualEvent__c.AttendeeCount__c</members>
         <members>VirtualEvent__c.EventVenue__c</members>
         <members>VoiceCall.ActivityId</members>
@@ -2962,6 +2977,7 @@
         <members>FulfillmentOrderItemAdjustment</members>
         <members>FulfillmentOrderItemTax</members>
         <members>FulfillmentOrderLineItem</members>
+        <members>Gadget__c</members>
         <members>GuestUserAnomalyEventStore</members>
         <members>Health__c</members>
         <members>IPL_Teams__c</members>
@@ -3042,6 +3058,7 @@
         <members>PromptError</members>
         <members>QuickText</members>
         <members>QuickTextUsage</members>
+        <members>Recipe__c</members>
         <members>Recommendation</members>
         <members>RecordAction</members>
         <members>RecordMergeHistory</members>
@@ -3102,6 +3119,7 @@
         <members>UserLocalWebServerIdentity</members>
         <members>UserPrioritizedRecord</members>
         <members>UserProvisioningRequest</members>
+        <members>Vehicle__c</members>
         <members>VirtualEvent__c</members>
         <members>VoiceCall</members>
         <members>Waitlist</members>
@@ -3158,6 +3176,7 @@
         <members>Scientist__c</members>
         <members>Stadium_Details__c</members>
         <members>Ticket__c</members>
+        <members>Vehicle__c</members>
         <members>Workout__c</members>
         <name>CustomTab</name>
     </types>
@@ -3415,6 +3434,7 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>Vehicle__c-Vehicle Layout</members>
         <members>VirtualEvent__c-VirtualEvent Layout</members>
         <members>Waitlist-%5F%5FMISSING LABEL%5F%5F PropertyFile - val Waitlist not found in section StandardLayouts</members>
         <members>WebCart-Cart Layout</members>
@@ -3522,6 +3542,7 @@
         <members>FlowOrchestrationWorkItem.ALL_Open_Work_Items</members>
         <members>FlowOrchestrationWorkItem.All_Work_Items</members>
         <members>FulfillmentOrder.all_fulfillment_orders</members>
+        <members>Gadget__c.All</members>
         <members>Health__c.All</members>
         <members>IPL_Teams__c.All</members>
         <members>Idea.Ideas_Last_7_Days</members>
@@ -3568,6 +3589,7 @@
         <members>ProductCategory.All_Product_Categories_List_View</members>
         <members>ProductCategory.Category_Hierarchy_SM</members>
         <members>ProductCategory.Org_ProductCategory_Hierarchy</members>
+        <members>Recipe__c.All</members>
         <members>Recommendation.All_Recommendations</members>
         <members>Refund.Refund</members>
         <members>RefundLinePayment.RefundLinePayment</members>
@@ -3607,6 +3629,7 @@
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
+        <members>Vehicle__c.All</members>
         <members>VirtualEvent__c.All</members>
         <members>VoiceCall.My_VoiceCalls</members>
         <members>Waitlist.All_Waitlists</members>
@@ -3678,8 +3701,10 @@
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
+        <members>Anypoint Integration</members>
         <members>Authenticated Website</members>
         <members>B2B Reordering Portal Buyer Profile</members>
+        <members>CM quarter-1</members>
         <members>Chatter External User</members>
         <members>Chatter Free User</members>
         <members>Chatter Moderator User</members>
@@ -3718,7 +3743,14 @@
         <members>SolutionManager</members>
         <members>Standard</members>
         <members>StandardAul</members>
+        <members>UAT Tester</members>
         <members>Work%2Ecom Only User</members>
+        <members>demotester</members>
+        <members>guardtest</members>
+        <members>guarduat</members>
+        <members>mufasa</members>
+        <members>test profile-2</members>
+        <members>testguard</members>
         <name>Profile</name>
     </types>
     <types>
