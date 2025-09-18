@@ -3220,6 +3220,7 @@
         <members>freedom123__c</members>
         <members>ink__c</members>
         <members>onn__c</members>
+        <members>parker__c</members>
         <members>poker__c</members>
         <members>vip__c</members>
         <members>zin__c</members>
@@ -3788,6 +3789,7 @@
         <members>freedom123__c.All</members>
         <members>ink__c.All</members>
         <members>onn__c.All</members>
+        <members>parker__c.All</members>
         <members>poker__c.All</members>
         <members>vip__c.All</members>
         <members>zin__c.All</members>
