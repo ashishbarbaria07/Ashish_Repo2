@@ -7,6 +7,7 @@ public class StringToolbox {
     }
 
     // Counts the number of vowels in a string
+    // 12345
     public static Integer countVowels(String input) {
         Integer count = 0;
         String lower = input.toLowerCase();

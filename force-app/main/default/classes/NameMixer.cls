@@ -8,6 +8,7 @@ public class NameMixer {
         String part2 = name2.substring(mid2);
 		// ashish barbaria
 		// 123
+		// a1234
         return part1 + part2;
     }
 }
