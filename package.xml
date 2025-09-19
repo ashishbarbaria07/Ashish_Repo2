@@ -12,6 +12,8 @@
         <members>CircleTest</members>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
+        <members>DreamAnalyzer</members>
+        <members>DreamAnalyzerTest</members>
         <members>EdenGarden</members>
         <members>EdenGardenTest</members>
         <members>GadgetController</members>
@@ -2895,6 +2897,8 @@
         <members>Workout__c.Duration__c</members>
         <members>Workout__c.Workout_Type__c</members>
         <members>Zen__c.Milli__c</members>
+        <members>japan__c.tsunami__c</members>
+        <members>mexico__c.lake__c</members>
         <members>poker__c.rummy_circle__c</members>
         <members>vip__c.pm__c</members>
         <members>zin__c.bottle_opener__c</members>
@@ -3219,6 +3223,8 @@
         <members>Zen__c</members>
         <members>freedom123__c</members>
         <members>ink__c</members>
+        <members>japan__c</members>
+        <members>mexico__c</members>
         <members>onn__c</members>
         <members>parker__c</members>
         <members>poker__c</members>
@@ -3788,6 +3794,8 @@
         <members>Zen__c.All</members>
         <members>freedom123__c.All</members>
         <members>ink__c.All</members>
+        <members>japan__c.All</members>
+        <members>mexico__c.All</members>
         <members>onn__c.All</members>
         <members>parker__c.All</members>
         <members>poker__c.All</members>
