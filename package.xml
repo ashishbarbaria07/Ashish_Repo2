@@ -42,6 +42,7 @@
         <members>Square</members>
         <members>SquareTest</members>
         <members>Star</members>
+        <members>StellarClock</members>
         <members>StringUtility</members>
         <members>StringUtilityTest</members>
         <members>Tester</members>
@@ -1232,6 +1233,7 @@
         <members>Doctor__c.Fees__c</members>
         <members>Donation__c.Donation_Amount__c</members>
         <members>Donation__c.Donor_Name__c</members>
+        <members>Dublin__c.towers__c</members>
         <members>DuplicateRecordItem.DuplicateRecordSetId</members>
         <members>DuplicateRecordItem.RecordId</members>
         <members>DuplicateRecordSet.DuplicateRuleId</members>
@@ -3011,6 +3013,7 @@
         <members>Director__c</members>
         <members>Doctor__c</members>
         <members>Donation__c</members>
+        <members>Dublin__c</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
@@ -3224,6 +3227,7 @@
         <members>freedom123__c</members>
         <members>ink__c</members>
         <members>japan__c</members>
+        <members>latvia__c</members>
         <members>mexico__c</members>
         <members>onn__c</members>
         <members>parker__c</members>
@@ -3659,6 +3663,7 @@
         <members>Director__c.All</members>
         <members>Doctor__c.All</members>
         <members>Donation__c.All</members>
+        <members>Dublin__c.All</members>
         <members>Employee__c.All</members>
         <members>EngagementChannelType.All_EngagementChannelTypes</members>
         <members>EngagementChannelWorkType.All_EngagementChannelWorkTypes</members>
@@ -3795,6 +3800,7 @@
         <members>freedom123__c.All</members>
         <members>ink__c.All</members>
         <members>japan__c.All</members>
+        <members>latvia__c.All</members>
         <members>mexico__c.All</members>
         <members>onn__c.All</members>
         <members>parker__c.All</members>
