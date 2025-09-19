@@ -27,6 +27,7 @@
         <members>Mike</members>
         <members>Motor</members>
         <members>MotorTest</members>
+        <members>NameMixer</members>
         <members>Ntt</members>
         <members>PickleTest</members>
         <members>Playstation</members>
@@ -43,6 +44,7 @@
         <members>SquareTest</members>
         <members>Star</members>
         <members>StellarClock</members>
+        <members>StringToolbox</members>
         <members>StringUtility</members>
         <members>StringUtilityTest</members>
         <members>Tester</members>
