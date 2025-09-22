@@ -8,6 +8,8 @@
         <members>Books</members>
         <members>BooksTest</members>
         <members>BottleTest</members>
+        <members>ByteAlchemy</members>
+        <members>ChaosCipher</members>
         <members>CircleTest</members>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
@@ -33,6 +35,7 @@
         <members>Speaker</members>
         <members>Square</members>
         <members>SquareTest</members>
+        <members>StellarClock</members>
         <members>Tech</members>
         <members>TechTest</members>
         <members>Tester</members>
@@ -3232,6 +3235,7 @@
         <members>bella__c</members>
         <members>freedom123__c</members>
         <members>jet__c</members>
+        <members>kones__c</members>
         <members>vip__c</members>
         <members>zaa__c</members>
         <members>zap__c</members>
@@ -3836,6 +3840,7 @@
         <members>bella__c.All</members>
         <members>freedom123__c.All</members>
         <members>jet__c.All</members>
+        <members>kones__c.All</members>
         <members>vip__c.All</members>
         <members>zaa__c.All</members>
         <members>zap__c.All</members>
