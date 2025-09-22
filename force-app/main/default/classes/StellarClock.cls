@@ -10,6 +10,7 @@ public class StellarClock {
     public static Datetime travelInTime(Integer hours) {
         return Datetime.now().addHours(hours);
         // uat 123456
+        // ott 1212
     }
 
     // Converts given datetime to a friendly string
