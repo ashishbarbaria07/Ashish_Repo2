@@ -36,6 +36,7 @@
         <members>Square</members>
         <members>SquareTest</members>
         <members>StellarClock</members>
+        <members>StringToolbox</members>
         <members>Tech</members>
         <members>TechTest</members>
         <members>Tester</members>
