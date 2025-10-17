@@ -9,6 +9,10 @@
         <members>BooksTest</members>
         <members>Bottle</members>
         <members>BottleTest</members>
+        <members>BoxOne</members>
+        <members>BoxTwo</members>
+        <members>ByteAlchemy</members>
+        <members>ChaosCipher</members>
         <members>CircleTest</members>
         <members>CricketManager</members>
         <members>CricketManagerTest</members>
@@ -16,6 +20,8 @@
         <members>DreamAnalyzerTest</members>
         <members>EdenGarden</members>
         <members>EdenGardenTest</members>
+        <members>Flag</members>
+        <members>FlagTest</members>
         <members>GadgetController</members>
         <members>GadgetControllerTest</members>
         <members>GalacticTradeManager</members>
@@ -137,6 +143,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Abc__c.test__c</members>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
         <members>Account.Active__c</members>
@@ -2922,6 +2929,7 @@
         <name>CustomNotificationType</name>
     </types>
     <types>
+        <members>Abc__c</members>
         <members>Account</members>
         <members>AccountCleanInfo</members>
         <members>AccountContactRole</members>
@@ -3597,6 +3605,7 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Abc__c.All</members>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
