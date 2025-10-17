@@ -18,6 +18,9 @@
         <members>EdenGardenTest</members>
         <members>GadgetController</members>
         <members>GadgetControllerTest</members>
+        <members>GalacticTradeManager</members>
+        <members>GreetingService</members>
+        <members>GreetingServiceTest</members>
         <members>House</members>
         <members>HouseTest</members>
         <members>India</members>
@@ -3235,6 +3238,7 @@
         <members>parker__c</members>
         <members>poker__c</members>
         <members>vip__c</members>
+        <members>zap__c</members>
         <members>zin__c</members>
         <name>CustomObject</name>
     </types>
@@ -3808,6 +3812,7 @@
         <members>parker__c.All</members>
         <members>poker__c.All</members>
         <members>vip__c.All</members>
+        <members>zap__c.All</members>
         <members>zin__c.All</members>
         <name>ListView</name>
     </types>
