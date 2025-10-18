@@ -4046,6 +4046,7 @@
         <members>CaseReason</members>
         <members>CaseStatus</members>
         <members>CaseType</members>
+        <members>ContactPointUsageType</members>
         <members>ContactRole</members>
         <members>ContractContactRole</members>
         <members>ContractStatus</members>
