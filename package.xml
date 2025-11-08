@@ -13,6 +13,8 @@
         <members>RecipeServiceTest</members>
         <members>Rocket</members>
         <members>ScientistHandler</members>
+        <members>SimpleInventoryManager</members>
+        <members>SimpleInventoryManagerTest</members>
         <members>Tester</members>
         <members>TesterTest</members>
         <members>Van</members>
@@ -1573,6 +1575,8 @@
         <members>InventoryReservation.ReservationDurationInSeconds</members>
         <members>InventoryReservation.ReservationIdentifier</members>
         <members>InventoryReservation.ReservationSourceId</members>
+        <members>Inventory__c.ProductName__c</members>
+        <members>Inventory__c.Quantity__c</members>
         <members>Invoice.Balance</members>
         <members>Invoice.BillToContactId</members>
         <members>Invoice.BillingAccountId</members>
@@ -2965,6 +2969,7 @@
         <members>Individual</members>
         <members>InventoryItemReservation</members>
         <members>InventoryReservation</members>
+        <members>Inventory__c</members>
         <members>Invoice</members>
         <members>InvoiceLine</members>
         <members>King__c</members>
@@ -3320,6 +3325,7 @@
         <members>GuestUserAnomalyEventStore-Guest User Anomaly Event Store Layout</members>
         <members>Idea-Idea Layout</members>
         <members>Individual-Individual Layout</members>
+        <members>Inventory__c-Inventory Layout</members>
         <members>Invoice-Invoice Layout</members>
         <members>InvoiceLine-Invoice Line Layout</members>
         <members>King__c-King Layout</members>
