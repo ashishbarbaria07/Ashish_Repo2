@@ -2827,6 +2827,8 @@
         <members>WorkTypeGroup.OwnerId</members>
         <members>WorkTypeGroupMember.WorkTypeGroupId</members>
         <members>WorkTypeGroupMember.WorkTypeId</members>
+        <members>dl_tests_a__c.dl_numbers_of_records__c</members>
+        <members>dl_tests_a__c.single_dataloader__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -3125,6 +3127,7 @@
         <members>WorkType</members>
         <members>WorkTypeGroup</members>
         <members>WorkTypeGroupMember</members>
+        <members>dl_tests_a__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -3417,6 +3420,7 @@
         <members>WorkType-Work Type Layout</members>
         <members>WorkTypeGroup-Work Type Group Layout</members>
         <members>WorkTypeGroupMember-Work Type Group Member Layout</members>
+        <members>dl_tests_a__c-dl tests a Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -3731,6 +3735,10 @@
     <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>unfiled$public/Ashish_New_Accounts_Report_ps3</members>
+        <name>Report</name>
     </types>
     <types>
         <members>CEO</members>
