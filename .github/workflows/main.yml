@@ -1,0 +1,42 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Cache files
+        uses: actions/cache@v4
+        with:
+            path: |
+                ~/.sonar
+            key: ${{ runner.os }}-sonar
+            restore-keys: ${{ runner.os }}-sonar
+      - name: Run Codescan On Push
+        if: github.event_name == 'push'
+        uses: codescan-io/codescan-scanner-action@1.6
+        with:
+          organization: marveluniverse
+          projectKey: github-actions
+          login: ${{ secrets.codescan_token }}
+          generateSarifFile: true
+          failOnRedQualityGate: true
+      - name: Run Codescan On PR
+        if: github.event_name == 'pull_request'
+        uses: codescan-io/codescan-scanner-action@1.6
+        with:
+          organization: marveluniverse
+          projectKey: github-actions
+          login: ${{ secrets.codescan_token }}
+          scanChangedFilesOnly: true
+          generateSarifFile: true
+          failOnRedQualityGate: true
+          args: |
+            sonar.pullrequest.branch=${{github.head_ref}}
+            sonar.pullrequest.base=${{github.base_ref}}
+            sonar.pullrequest.key=${{github.event.number}}
